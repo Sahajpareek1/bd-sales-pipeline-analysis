@@ -1,0 +1,901 @@
+BD_Team,Region,Client_Name,Industry,Lead_Source,Campaign,Lead_Score,Current_Stage,Initial_Contact_Date,Deal_Closed_Date,Expected_Deal_Size,Actual_Revenue,BD_Representative,Opportunity_ID
+Team E,Latin-America,FinEdge,Financial Services,Referral,healthcare expo,56,Prospecting,45534,,64594.26,0,Rafael Souza,OPP-00001
+Team C,Middle-East,AgriCorp,Agriculture,Outbound,Unknown,42,Qualified,45321,,93959.06,0,Samir Gupta,OPP-00002
+Team B,North-America,BioHealth,Biotechnology,Inbound,Spring Launch,73,Prospecting,45765,,82661.64,0,Rohit Menon,OPP-00003
+Team A,Europe,GreenTech,Renewable Energy,Partnership,Green Tech Day,69,Negotiation,45838,,16867.56,0,Alex Patel,OPP-00004
+Team A,Middle-East,TechNova,Technology,Event,Agri Meet,61,Closed Won,45806,45869,70024.2,61634.91,Priya Singh,OPP-00005
+Team A,Europe,GreenTech,Renewable Energy,Social Media,FinTech Webinar,32,Prospecting,45170,,18467.49,0,Priya Singh,OPP-00006
+Team B,Latin-America,GreenSystems,Renewable Energy,Inbound,Healthcare Expo,42,Prospecting,45818,,76460.93,0,Rohit Menon,OPP-00007
+Team D,Latin-America,GreenSystems,Renewable Energy,Event,Unknown,45,Qualified,45613,,22027.86,0,Emma Johnson,OPP-00008
+Team B,Middle-East,Urbanmobility,Transportation,Referral,Green Tech Day,37,Prospecting,45699,,35997.3,0,Unknown,OPP-00009
+Team D,Latin-America,SafeBank,Financial Services,Referral,EducationForum,79,Negotiation,45867,,46306.655,0,Emma Johnson,OPP-00010
+Team D,North-America,SafeBank,Financial Services,Outbound,FinTech Webinar,82,Negotiation,45642,,36566,0,Emma Johnson,OPP-00011
+Team D,Asia-Pacific,AgriCorp,Agriculture,Social Media,Tech Summit,69,Closed Lost,45670,45735,24189.24,0,Chen Wei,OPP-00012
+Team B,Middle-East,CloudWorks,Cloud Computing,Email Campaign,summer outreach,90,Prospecting,45715,,90679.85,0,Rohit Menon,OPP-00013
+Team A,Middle-East,BioHealth,Biotechnology,Event,Referral Program,97,Negotiation,45680,,12653.69,0,Priya Singh,OPP-00014
+Team B,Europe,GreenSystems,Renewable Energy,Webinar,Education Forum,21,Proposal Sent,45392,,70226.7,0,Unknown,OPP-00015
+Team E,Europe,TechNova,Technology,Email Campaign,Unknown,69,Prospecting,45658,,37510.75,0,Sara Ibrahim,OPP-00016
+Team E,Europe,FinPeak,FinTech,Social Media,Summer Outreach,22,Closed Won,45818,45838,24287.72,23722.32,Rafael Souza,OPP-00017
+Team B,Asia-Pacific,AgriHarvest,Agriculture,Event,Referral Program,37,Qualified,45426,,59003.34,0,Rohit Menon,OPP-00018
+Team E,Asia-Pacific,MarketIQ,Market Intelligence,Inbound,green tech day,82,Proposal Sent,45737,,58478.14,0,Sara Ibrahim,OPP-00019
+Team A,Asia-Pacific,AgriHarvest,Agriculture,Inbound,AgriMeet,49,Qualified,45443,,20899.33,0,Priya Singh,OPP-00020
+Team A,Europe,GreenSystems,Renewable Energy,Webinar,spring launch,92,Prospecting,45577,,34028.13,0,Alex Patel,OPP-00021
+Team D,North-America,CloudWorks,Cloud Computing,Unknown,Referral Program,70,Negotiation,45432,,46306.655,0,Chen Wei,OPP-00022
+Team A,Middle-East,FinEdge,Financial Services,Unknown,Healthcare Expo,95,Qualified,45740,,19614.73,0,Alex Patel,OPP-00023
+Team D,Asia-Pacific,AgriCorp,Agriculture,Inbound,Spring Launch,76,Proposal Sent,45412,,21159.47,0,Chen Wei,OPP-00024
+Team B,Latin-America,GreenSystems,Renewable Energy,Referral,Spring Launch,58,Closed Won,45493,45589,63105.54,69771.75,Meera Shah,OPP-00025
+Team B,Europe,MarketIQ,Market Intelligence,Event,Tech summit,72,Closed Won,45448,45480,28628.29,25579.79,Meera Shah,OPP-00026
+Team E,Europe,SafeBank,Financial Services,Event,Green Tech Day,61,Qualified,45755,,60694.28,0,Sara Ibrahim,OPP-00027
+Team A,Europe,EduNext,Education,Partnership,healthcare expo,61,Qualified,45671,,103763.73,0,Alex Patel,OPP-00028
+Team C,North-America,EduNext,Education,Event,FinTech Webinar,57,Prospecting,45592,,33355.61,0,Lina Fernandez,OPP-00029
+Team E,Europe,FinPeak,FinTech,Outbound,Green Tech Day,61,Prospecting,45410,,96971.75,0,Sara Ibrahim,OPP-00030
+Team C,Middle-East,AgriCorp,Agriculture,Email Campaign,Education Forum,92,Prospecting,45197,,8938.81,0,Samir Gupta,OPP-00031
+Team B,Latin-America,MediCore,Healthcare,Webinar,Green Tech Day,74,Qualified,45790,,62901.02,0,Meera Shah,OPP-00032
+Team C,Middle-East,MarketIQ,Market Intelligence,Social Media,Spring Launch,50,Qualified,45476,,58824.51,0,Samir Gupta,OPP-00033
+Team B,Middle-East,MarketIQ,Market Intelligence,Outbound,Tech Summit,45,Qualified,45677,,27239.44,0,Rohit Menon,OPP-00034
+Team C,Middle-East,EduNext,Education,Inbound,Education Forum,61,Qualified,45652,,38656.64,0,Lina Fernandez,OPP-00035
+Team A,Middle-East,TechNova,Technology,Referral,Tech Summit,33,Closed Lost,45285,45393,44251.54,0,Priya Singh,OPP-00036
+Team D,North-America,MediCore,Healthcare,Referral,Healthcare Expo,44,Negotiation,45283,,39101.92,0,Chen Wei,OPP-00037
+Team B,Middle-East,BioHealth,Biotechnology,Referral,ReferralProgram,55,Proposal Sent,45711,,56897.74,0,Rohit Menon,OPP-00038
+Team D,Asia-Pacific,MarketIQ,Market Intelligence,Social Media,Agri meet,71,Proposal Sent,45829,,39132.31,0,Emma Johnson,OPP-00039
+Team B,North-America,FinPeak,FinTech,Inbound,Spring Launch,50,Qualified,45587,,129825.55,0,Rohit Menon,OPP-00040
+Team C,Asia-Pacific,BioHealth,Biotechnology,Outbound,Green Tech Day,20,Proposal Sent,45531,,21693.17,0,Lina Fernandez,OPP-00041
+Team C,Europe,GreenSystems,Renewable Energy,Partnership,Agri Meet,29,Closed Lost,45798,45869,34755.49,0,Lina Fernandez,OPP-00042
+Team D,Middle-East,HealthPlus,Healthcare,Referral,Green Tech Day,26,Proposal Sent,45841,,24418.46,0,Chen Wei,OPP-00043
+Team D,Middle-East,HealthPlus,Healthcare,Webinar,Agri Meet,52,Prospecting,45727,,46096.25,0,Chen Wei,OPP-00044
+Team A,Middle-East,GreenTech,Renewable Energy,Inbound,Green Tech Day,30,Prospecting,45247,,39488.17,0,Unknown,OPP-00045
+Team C,Europe,MarketIQ,Market Intelligence,Inbound,Tech Summit,76,Proposal Sent,45314,,61638.7,0,Samir Gupta,OPP-00046
+Team C,North-America,AgriHarvest,Agriculture,Event,Agri Meet,46,Closed Won,45701,45776,46317.56,49044.87,Lina Fernandez,OPP-00047
+Team E,Middle-East,SafeBank,Financial Services,Referral,Education Forum,36,Prospecting,45439,,34740.83,0,Unknown,OPP-00048
+Team D,Europe,AgriHarvest,Agriculture,Event,healthcare expo,21,Closed Lost,45378,45465,17104.86,0,Chen Wei,OPP-00049
+Team E,North-America,HealthPlus,Healthcare,Inbound,Unknown,52,Proposal Sent,45867,,101236.78,0,Sara Ibrahim,OPP-00050
+Team A,Asia-Pacific,AgriCorp,Agriculture,Webinar,Agri Meet,55,Qualified,45865,,26460.21,0,Priya Singh,OPP-00051
+Team B,Asia-Pacific,TechNova,Technology,Email Campaign,Green Tech Day,79,Qualified,45749,,27447.47,0,Rohit Menon,OPP-00052
+Team C,Asia-Pacific,AgriCorp,Agriculture,Webinar,Education Forum,30,Prospecting,45649,,168346.54,0,Lina Fernandez,OPP-00053
+Team B,Latin-America,FinEdge,Financial Services,Social Media,Green Tech Day,88,Negotiation,45219,,10131.25,0,Meera Shah,OPP-00054
+Team D,Latin-America,SafeBank,Financial Services,Social Media,Referral Program,22,Prospecting,45226,,70119.43,0,Chen Wei,OPP-00055
+Team C,Europe,GreenSystems,Renewable Energy,Email Campaign,Healthcare Expo,96,Qualified,45425,,33445.84,0,Samir Gupta,OPP-00056
+Team E,North-America,AgriCorp,Agriculture,Email Campaign,Education Forum,62,Prospecting,45536,,40607.23,0,Sara Ibrahim,OPP-00057
+Team E,Latin-America,TechNova,Technology,Referral,GreenTechDay,26,Prospecting,45696,,132903.93,0,Sara Ibrahim,OPP-00058
+Team B,Latin-America,TechNova,Technology,Inbound,Tech Summit,49,Qualified,45657,,62386.26,0,Rohit Menon,OPP-00059
+Team C,Europe,GreenTech,Renewable Energy,Outbound,education forum,48,Closed Won,45774,45869,44232.47,49354.35,Lina Fernandez,OPP-00060
+Team D,Middle-East,HealthPlus,Healthcare,Outbound,Tech Summit,74,Qualified,45296,,62584.11,0,Chen Wei,OPP-00061
+Team A,Asia-Pacific,Urbanmobility,Transportation,Event,Healthcare Expo,44,Qualified,45224,,60692.8,0,Alex Patel,OPP-00062
+Team D,Asia-Pacific,GreenSystems,Renewable Energy,Event,green tech day,59,Prospecting,45479,,57162.12,0,Chen Wei,OPP-00063
+Team D,Europe,MarketIQ,Market Intelligence,Inbound,Education Forum,79,Closed Lost,45251,45267,22118.61,0,Chen Wei,OPP-00064
+Team C,North-America,AgriHarvest,Agriculture,Inbound,Spring Launch,95,Qualified,45232,,62974.77,0,Lina Fernandez,OPP-00065
+Team C,Latin-America,MediCore,Healthcare,Partnership,EducationForum,21,Prospecting,45484,,35451.25,0,Samir Gupta,OPP-00066
+Team C,Asia-Pacific,HealthPlus,Healthcare,Event,Education Forum,90,Prospecting,45329,,71017.6,0,Samir Gupta,OPP-00067
+Team B,Europe,GreenTech,Renewable Energy,Referral,Education Forum,44,Closed Lost,45254,45276,94033.34,0,Rohit Menon,OPP-00068
+Team B,Asia-Pacific,MediCore,Healthcare,Partnership,Healthcare Expo,96,Qualified,45805,,9180.11,0,Meera Shah,OPP-00069
+Team C,Middle-East,GreenSystems,Renewable Energy,Inbound,SpringLaunch,96,Negotiation,45658,,143386.68,0,Samir Gupta,OPP-00070
+Team C,North-America,FinEdge,Financial Services,Webinar,Spring Launch,80,Negotiation,45268,,29221.13,0,Lina Fernandez,OPP-00071
+Team C,Europe,GreenSystems,Renewable Energy,Social Media,FinTech Webinar,55,Negotiation,45448,,70775.58,0,Samir Gupta,OPP-00072
+Team A,Asia-Pacific,TechNova,Technology,Webinar,Referral Program,76,Prospecting,45747,,34209.59,0,Priya Singh,OPP-00073
+Team B,Latin-America,GreenTech,Renewable Energy,Social Media,Spring Launch,99,Prospecting,45712,,46306.655,0,Meera Shah,OPP-00074
+Team D,North-America,FinPeak,FinTech,Unknown,Agri Meet,82,Prospecting,45387,,50183.11,0,Chen Wei,OPP-00075
+Team E,North-America,GreenTech,Renewable Energy,Inbound,Healthcare Expo,83,Proposal Sent,45486,,39390.27,0,Rafael Souza,OPP-00076
+Team E,North-America,EduNext,Education,Event,Agri Meet,75,Closed Lost,45832,45869,71877.68,0,Sara Ibrahim,OPP-00077
+Team D,Latin-America,EduNext,Education,Social Media,Healthcare Expo,73,Proposal Sent,45358,,42708.15,0,Emma Johnson,OPP-00078
+Team B,North-America,MediCore,Healthcare,Social Media,Spring Launch,61,Closed Lost,45371,45502,124449.92,0,Rohit Menon,OPP-00079
+Team E,Latin-America,CloudWorks,Cloud Computing,Partnership,Healthcare Expo,88,Negotiation,45377,,132942.57,0,Rafael Souza,OPP-00080
+Team B,Asia-Pacific,SafeBank,Financial Services,Webinar,agri meet,84,Prospecting,45235,,22856.95,0,Rohit Menon,OPP-00081
+Team C,North-America,MediCore,Healthcare,Inbound,Summer outreach,47,Qualified,45490,,99585.63,0,Lina Fernandez,OPP-00082
+Team D,Latin-America,TechNova,Technology,Email Campaign,Agri Meet,47,Proposal Sent,45329,,43147.81,0,Emma Johnson,OPP-00083
+Team A,Middle-East,BioHealth,Biotechnology,Partnership,Education Forum,64,Proposal Sent,45410,,14048.08,0,Priya Singh,OPP-00084
+Team E,Europe,HealthPlus,Healthcare,Social Media,HealthcareExpo,67,Qualified,45841,,84417.11,0,Rafael Souza,OPP-00085
+Team C,Europe,AgriCorp,Agriculture,Partnership,FinTech Webinar,67,Proposal Sent,45806,,24860.9,0,Unknown,OPP-00086
+Team E,North-America,MediCore,Healthcare,Outbound,EducationForum,94,Negotiation,45644,,69875.38,0,Sara Ibrahim,OPP-00087
+Team E,North-America,SafeBank,Financial Services,Webinar,Agri Meet,71,Closed Won,45499,45603,59933.89,58245.92,Rafael Souza,OPP-00088
+Team C,Asia-Pacific,FinEdge,Financial Services,Outbound,Education Forum,61,Proposal Sent,45393,,81600.05,0,Unknown,OPP-00089
+Team D,Europe,HealthPlus,Healthcare,Outbound,EducationForum,50,Proposal Sent,45570,,46277.48,0,Emma Johnson,OPP-00090
+Team C,Europe,SafeBank,Financial Services,Referral,Summer Outreach,84,Proposal Sent,45208,,46306.655,0,Samir Gupta,OPP-00091
+Team C,North-America,MediCore,Healthcare,Inbound,Education forum,88,Prospecting,45334,,43009.78,0,Lina Fernandez,OPP-00092
+Team A,Asia-Pacific,CloudWorks,Cloud Computing,Email Campaign,Summer Outreach,33,Prospecting,45842,,78403.29,0,Alex Patel,OPP-00093
+Team D,North-America,BioHealth,Biotechnology,Partnership,Referral program,64,Prospecting,45481,,62074.4,0,Chen Wei,OPP-00094
+Team A,North-America,GreenTech,Renewable Energy,Outbound,referral program,68,Qualified,45387,,85053.7,0,Priya Singh,OPP-00095
+Team D,Latin-America,HealthPlus,Healthcare,Email Campaign,Healthcare expo,92,Proposal Sent,45837,,113815.79,0,Chen Wei,OPP-00096
+Team B,Asia-Pacific,FinPeak,FinTech,Unknown,Healthcare Expo,30,Proposal Sent,45776,,58416.32,0,Meera Shah,OPP-00097
+Team A,Middle-East,AgriHarvest,Agriculture,Event,GreenTechDay,81,Proposal Sent,45615,,83396.14,0,Alex Patel,OPP-00098
+Team E,Asia-Pacific,GreenTech,Renewable Energy,Referral,spring launch,28,Closed Lost,45542,45626,55123.73,0,Rafael Souza,OPP-00099
+Team B,Europe,MediCore,Healthcare,Email Campaign,Summer outreach,43,Qualified,45738,,52450.5,0,Rohit Menon,OPP-00100
+Team B,North-America,CloudWorks,Cloud Computing,Partnership,Healthcare Expo,64,Prospecting,45694,,46306.655,0,Unknown,OPP-00101
+Team D,Latin-America,CloudWorks,Cloud Computing,Email Campaign,Tech Summit,29,Prospecting,45320,,102613.22,0,Emma Johnson,OPP-00102
+Team D,Europe,AgriCorp,Agriculture,Inbound,Healthcare Expo,62,Negotiation,45371,,73120.16,0,Chen Wei,OPP-00103
+Team A,Middle-East,MarketIQ,Market Intelligence,Outbound,Referral Program,67,Negotiation,45699,,13703.05,0,Alex Patel,OPP-00104
+Team C,North-America,FinEdge,Financial Services,Event,Referral Program,93,Prospecting,45555,,89501.62,0,Samir Gupta,OPP-00105
+Team E,Europe,AgriHarvest,Agriculture,Social Media,Tech Summit,86,Qualified,45790,,28345.42,0,Rafael Souza,OPP-00106
+Team C,Asia-Pacific,MediCore,Healthcare,Webinar,Agri Meet,33,Closed Won,45803,45831,47596.59,55322.92,Samir Gupta,OPP-00107
+Team B,North-America,HealthPlus,Healthcare,Event,FinTech Webinar,83,Qualified,45809,,98694.21,0,Meera Shah,OPP-00108
+Team B,North-America,MediCore,Healthcare,Referral,Spring Launch,84,Closed Lost,45634,45681,29540.87,0,Rohit Menon,OPP-00109
+Team A,Asia-Pacific,EduNext,Education,Partnership,Healthcare Expo,97,Prospecting,45292,,42044.5,0,Priya Singh,OPP-00110
+Team D,Middle-East,EduNext,Education,Event,Healthcare Expo,83,Qualified,45172,,75910.89,0,Chen Wei,OPP-00111
+Team A,Europe,EduNext,Education,Referral,Healthcare Expo,38,Prospecting,45407,,31276.35,0,Alex Patel,OPP-00112
+Team A,Latin-America,FinEdge,Financial Services,Referral,referral program,88,Closed Lost,45528,45661,17670.33,0,Alex Patel,OPP-00113
+Team C,Europe,SafeBank,Financial Services,Email Campaign,TechSummit,51,Proposal Sent,45794,,28439.01,0,Samir Gupta,OPP-00114
+Team C,Middle-East,SafeBank,Financial Services,Inbound,spring launch,32,Negotiation,45467,,87331.08,0,Lina Fernandez,OPP-00115
+Team D,Europe,FinPeak,FinTech,Partnership,Tech Summit,93,Proposal Sent,45674,,74849.47,0,Emma Johnson,OPP-00116
+Team C,Latin-America,FinPeak,FinTech,Inbound,Agri Meet,94,Negotiation,45761,,27539.57,0,Unknown,OPP-00117
+Team E,North-America,GreenTech,Renewable Energy,Partnership,Green Tech Day,61,Closed Lost,45823,45843,25370.62,0,Rafael Souza,OPP-00118
+Team B,Middle-East,BioHealth,Biotechnology,Email Campaign,Summer Outreach,51,Proposal Sent,45717,,51205.25,0,Rohit Menon,OPP-00119
+Team C,Asia-Pacific,MediCore,Healthcare,Email Campaign,Fintech webinar,79,Prospecting,45862,,101092.53,0,Samir Gupta,OPP-00120
+Team A,Asia-Pacific,GreenTech,Renewable Energy,Social Media,Healthcare expo,47,Prospecting,45253,,11229.62,0,Unknown,OPP-00121
+Team D,Asia-Pacific,SafeBank,Financial Services,Inbound,Green Tech Day,81,Prospecting,45305,,16887.93,0,Chen Wei,OPP-00122
+Team A,North-America,BioHealth,Biotechnology,Referral,Agri Meet,36,Proposal Sent,45261,,71718.65,0,Priya Singh,OPP-00123
+Team A,Latin-America,TechNova,Technology,Event,Healthcare Expo,49,Qualified,45421,,59114.24,0,Alex Patel,OPP-00124
+Team B,Asia-Pacific,MarketIQ,Market Intelligence,Outbound,Spring Launch,89,Qualified,45276,,32456.56,0,Meera Shah,OPP-00125
+Team D,North-America,TechNova,Technology,Event,Unknown,64,Proposal Sent,45662,,30307.01,0,Emma Johnson,OPP-00126
+Team B,Latin-America,CloudWorks,Cloud Computing,Webinar,Agri Meet,21,Qualified,45266,,20588.25,0,Meera Shah,OPP-00127
+Team B,Latin-America,AgriCorp,Agriculture,Inbound,Spring Launch,28,Qualified,45275,,47187.11,0,Rohit Menon,OPP-00128
+Team C,Middle-East,MediCore,Healthcare,Inbound,Spring Launch,22,Prospecting,45592,,38710.94,0,Samir Gupta,OPP-00129
+Team A,Asia-Pacific,Urbanmobility,Transportation,Referral,referral program,98,Closed Lost,45439,45527,94767.03,0,Priya Singh,OPP-00130
+Team D,Asia-Pacific,TechNova,Technology,Referral,Healthcare Expo,57,Closed Lost,45525,45703,9738.91,0,Emma Johnson,OPP-00131
+Team A,North-America,GreenTech,Renewable Energy,Partnership,Agri Meet,99,Prospecting,45380,,14018.66,0,Priya Singh,OPP-00132
+Team B,North-America,FinEdge,Financial Services,Event,Agri Meet,26,Proposal Sent,45646,,151510.48,0,Rohit Menon,OPP-00133
+Team A,Asia-Pacific,EduNext,Education,Inbound,Spring Launch,61,Closed Lost,45540,45720,108531.62,0,Alex Patel,OPP-00134
+Team D,Middle-East,FinPeak,FinTech,Social Media,Education Forum,99,Qualified,45573,,25568.87,0,Chen Wei,OPP-00135
+Team B,Europe,AgriCorp,Agriculture,Unknown,Summer Outreach,30,Prospecting,45228,,24390.12,0,Rohit Menon,OPP-00136
+Team A,Latin-America,AgriCorp,Agriculture,Outbound,Referral Program,81,Prospecting,45560,,42880.89,0,Priya Singh,OPP-00137
+Team B,Europe,CloudWorks,Cloud Computing,Webinar,Tech Summit,62,Proposal Sent,45326,,72317.96,0,Rohit Menon,OPP-00138
+Team B,Middle-East,TechNova,Technology,Partnership,TechSummit,22,Qualified,45200,,40219.81,0,Meera Shah,OPP-00139
+Team B,North-America,Urbanmobility,Transportation,Referral,Spring Launch,74,Qualified,45753,,16530.67,0,Meera Shah,OPP-00140
+Team A,Latin-America,GreenSystems,Renewable Energy,Email Campaign,Education Forum,97,Closed Won,45599,45704,5856.81,5257.06,Alex Patel,OPP-00141
+Team A,Asia-Pacific,GreenSystems,Renewable Energy,Inbound,FinTech Webinar,80,Qualified,45378,,46306.655,0,Alex Patel,OPP-00142
+Team D,Latin-America,TechNova,Technology,Event,Fintech webinar,45,Qualified,45601,,23848.28,0,Emma Johnson,OPP-00143
+Team A,North-America,FinEdge,Financial Services,Partnership,Education Forum,73,Closed Lost,45401,45513,22655.03,0,Alex Patel,OPP-00144
+Team D,Middle-East,GreenSystems,Renewable Energy,Webinar,Summer Outreach,40,Qualified,45725,,39814.18,0,Chen Wei,OPP-00145
+Team C,Europe,GreenSystems,Renewable Energy,Email Campaign,Referral Program,26,Closed Won,45290,45314,57410.65,58174.05,Samir Gupta,OPP-00146
+Team A,Middle-East,BioHealth,Biotechnology,Inbound,Spring Launch,39,Prospecting,45795,,87071.19,0,Alex Patel,OPP-00147
+Team B,Middle-East,EduNext,Education,Outbound,FinTech Webinar,90,Prospecting,45771,,69340.83,0,Meera Shah,OPP-00148
+Team D,Latin-America,AgriCorp,Agriculture,Social Media,Spring Launch,83,Prospecting,45859,,87846.56,0,Emma Johnson,OPP-00149
+Team C,Europe,Urbanmobility,Transportation,Outbound,Spring Launch,81,Proposal Sent,45813,,37642.05,0,Lina Fernandez,OPP-00150
+Team A,Latin-America,SafeBank,Financial Services,Event,GreenTechDay,60,Closed Won,45241,45367,107600.01,115761.52,Priya Singh,OPP-00151
+Team B,Europe,AgriHarvest,Agriculture,Referral,Tech Summit,61,Proposal Sent,45605,,40143.1,0,Rohit Menon,OPP-00152
+Team A,Middle-East,CloudWorks,Unknown,Email Campaign,Green Tech Day,50,Proposal Sent,45663,,53220.69,0,Priya Singh,OPP-00153
+Team B,North-America,MarketIQ,Market Intelligence,Referral,Summer Outreach,33,Proposal Sent,45236,,13630.31,0,Rohit Menon,OPP-00154
+Team C,Europe,Urbanmobility,Transportation,Outbound,Tech Summit,94,Prospecting,45689,,51235.42,0,Lina Fernandez,OPP-00155
+Team E,North-America,MarketIQ,Market Intelligence,Referral,Referral Program,61,Proposal Sent,45583,,42667.88,0,Rafael Souza,OPP-00156
+Team E,North-America,FinEdge,Financial Services,Email Campaign,Spring Launch,63,Negotiation,45712,,67555.49,0,Rafael Souza,OPP-00157
+Team C,Middle-East,BioHealth,Biotechnology,Event,Agri meet,85,Prospecting,45223,,26753.65,0,Samir Gupta,OPP-00158
+Team E,North-America,AgriHarvest,Agriculture,Email Campaign,Referral Program,33,Closed Lost,45173,45216,15781.96,0,Rafael Souza,OPP-00159
+Team C,North-America,EduNext,Education,Partnership,Spring Launch,30,Qualified,45648,,126464.19,0,Samir Gupta,OPP-00160
+Team E,Asia-Pacific,EduNext,Education,Webinar,FinTech Webinar,30,Qualified,45785,,40584.57,0,Sara Ibrahim,OPP-00161
+Team C,Asia-Pacific,TechNova,Technology,Outbound,AgriMeet,70,Prospecting,45404,,96018.4,0,Samir Gupta,OPP-00162
+Team D,Asia-Pacific,GreenSystems,Renewable Energy,Unknown,Healthcare Expo,63,Negotiation,45289,,29948.46,0,Emma Johnson,OPP-00163
+Team C,Latin-America,MarketIQ,Market Intelligence,Social Media,agri meet,74,Qualified,45810,,54854.66,0,Samir Gupta,OPP-00164
+Team A,Europe,AgriHarvest,Agriculture,Outbound,spring launch,73,Closed Lost,45652,45704,20758.88,0,Alex Patel,OPP-00165
+Team B,Asia-Pacific,MarketIQ,Market Intelligence,Email Campaign,Referral Program,43,Prospecting,45436,,21518.97,0,Rohit Menon,OPP-00166
+Team D,Asia-Pacific,AgriHarvest,Agriculture,Social Media,Education Forum,65,Proposal Sent,45654,,16311.04,0,Emma Johnson,OPP-00167
+Team E,Middle-East,FinPeak,FinTech,Unknown,Tech Summit,31,Closed Lost,45574,45723,32659.93,0,Rafael Souza,OPP-00168
+Team E,Middle-East,FinPeak,FinTech,Outbound,Tech Summit,43,Prospecting,45308,,27058.77,0,Rafael Souza,OPP-00169
+Team E,Europe,AgriCorp,Agriculture,Referral,Tech Summit,34,Qualified,45652,,46816.44,0,Sara Ibrahim,OPP-00170
+Team A,Europe,CloudWorks,Cloud Computing,Referral,Spring Launch,61,Prospecting,45265,,31162.15,0,Priya Singh,OPP-00171
+Team A,Middle-East,Urbanmobility,Transportation,Social Media,Referral Program,48,Prospecting,45492,,64511.76,0,Priya Singh,OPP-00172
+Team C,Latin-America,Urbanmobility,Transportation,Event,Education Forum,43,Prospecting,45363,,48398.43,0,Samir Gupta,OPP-00173
+Team A,Middle-East,MediCore,Healthcare,Event,Healthcare Expo,92,Closed Lost,45313,45382,56659,0,Priya Singh,OPP-00174
+Team D,North-America,EduNext,Education,Inbound,Summer Outreach,61,Negotiation,45216,,59199.6,0,Emma Johnson,OPP-00175
+Team E,Asia-Pacific,BioHealth,Biotechnology,Social Media,Green Tech Day,49,Closed Won,45365,45505,18043.16,21196.62,Rafael Souza,OPP-00176
+Team B,Asia-Pacific,AgriCorp,Agriculture,Referral,FinTech Webinar,61,Prospecting,45611,,40552.01,0,Rohit Menon,OPP-00177
+Team B,Middle-East,CloudWorks,Cloud Computing,Event,Green Tech Day,36,Closed Won,45476,45543,9445.61,10631.52,Meera Shah,OPP-00178
+Team C,Asia-Pacific,GreenTech,Renewable Energy,Partnership,Tech Summit,34,Qualified,45230,,25771.1,0,Lina Fernandez,OPP-00179
+Team B,Europe,CloudWorks,Cloud Computing,Webinar,referral program,31,Prospecting,45808,,25312.82,0,Rohit Menon,OPP-00180
+Team E,Latin-America,FinPeak,FinTech,Email Campaign,Healthcare Expo,48,Prospecting,45688,,22405.59,0,Unknown,OPP-00181
+Team B,Europe,GreenSystems,Renewable Energy,Webinar,Education Forum,97,Prospecting,45499,,35330.58,0,Meera Shah,OPP-00182
+Team C,Latin-America,SafeBank,Financial Services,Social Media,Summer Outreach,58,Qualified,45782,,37920.08,0,Samir Gupta,OPP-00183
+Team D,Europe,EduNext,Education,Social Media,Agri Meet,48,Prospecting,45749,,11493.89,0,Emma Johnson,OPP-00184
+Team B,Latin-America,CloudWorks,Cloud Computing,Inbound,FinTech Webinar,55,Closed Lost,45825,45869,43024.61,0,Meera Shah,OPP-00185
+Team B,North-America,EduNext,Education,Inbound,TechSummit,31,Qualified,45519,,59128.79,0,Rohit Menon,OPP-00186
+Team D,Latin-America,AgriCorp,Agriculture,Referral,Education Forum,67,Qualified,45790,,59654.35,0,Chen Wei,OPP-00187
+Team B,Europe,GreenTech,Renewable Energy,Inbound,Healthcare Expo,91,Qualified,45443,,76658.03,0,Meera Shah,OPP-00188
+Team E,Europe,GreenSystems,Renewable Energy,Outbound,fintech webinar,34,Prospecting,45171,,20575.7,0,Sara Ibrahim,OPP-00189
+Team A,Latin-America,SafeBank,Financial Services,Event,Tech Summit,91,Prospecting,45269,,46306.655,0,Priya Singh,OPP-00190
+Team E,Europe,EduNext,Education,Inbound,Agri Meet,58,Prospecting,45511,,64048.93,0,Rafael Souza,OPP-00191
+Team A,Asia-Pacific,AgriHarvest,Agriculture,Social Media,Summer Outreach,53,Prospecting,45414,,23344.1,0,Priya Singh,OPP-00192
+Team C,Middle-East,BioHealth,Biotechnology,Email Campaign,Green Tech Day,78,Prospecting,45666,,32346.35,0,Samir Gupta,OPP-00193
+Team B,North-America,Urbanmobility,Transportation,Event,Education Forum,96,Qualified,45690,,13828.76,0,Meera Shah,OPP-00194
+Team D,Middle-East,MediCore,Healthcare,Outbound,Healthcare Expo,72,Negotiation,45173,,28001.3,0,Chen Wei,OPP-00195
+Team D,Asia-Pacific,GreenSystems,Renewable Energy,Social Media,Unknown,63,Prospecting,45658,,73272.03,0,Chen Wei,OPP-00196
+Team C,North-America,MarketIQ,Market Intelligence,Webinar,Spring launch,81,Qualified,45545,,15536.84,0,Unknown,OPP-00197
+Team A,North-America,SafeBank,Financial Services,Social Media,Green Tech Day,22,Prospecting,45438,,48052.31,0,Unknown,OPP-00198
+Team C,North-America,GreenTech,Renewable Energy,Outbound,referral program,59,Prospecting,45670,,33082.34,0,Lina Fernandez,OPP-00199
+Team D,Asia-Pacific,EduNext,Education,Referral,Referral Program,84,Proposal Sent,45462,,42212.16,0,Emma Johnson,OPP-00200
+Team D,Latin-America,MediCore,Healthcare,Partnership,Tech Summit,79,Prospecting,45372,,64074.81,0,Chen Wei,OPP-00201
+Team E,North-America,HealthPlus,Healthcare,Unknown,Referral Program,31,Proposal Sent,45225,,57838.84,0,Rafael Souza,OPP-00202
+Team B,North-America,Urbanmobility,Transportation,Event,Green tech day,74,Qualified,45174,,44971.55,0,Meera Shah,OPP-00203
+Team A,Asia-Pacific,AgriCorp,Agriculture,Email Campaign,Referral Program,89,Prospecting,45469,,31753.34,0,Alex Patel,OPP-00204
+Team C,Asia-Pacific,MarketIQ,Market Intelligence,Event,Education Forum,39,Proposal Sent,45387,,70628.54,0,Lina Fernandez,OPP-00205
+Team E,Asia-Pacific,HealthPlus,Healthcare,Webinar,agri meet,65,Qualified,45530,,33361.43,0,Rafael Souza,OPP-00206
+Team A,Europe,FinPeak,FinTech,Partnership,green tech day,61,Qualified,45751,,95977.68,0,Priya Singh,OPP-00207
+Team C,Middle-East,GreenTech,Renewable Energy,Outbound,Referral Program,72,Closed Lost,45707,45740,22848.2,0,Lina Fernandez,OPP-00208
+Team D,Latin-America,MarketIQ,Market Intelligence,Outbound,Healthcare expo,47,Closed Won,45844,45869,127961.58,104970.5,Emma Johnson,OPP-00209
+Team B,North-America,FinPeak,FinTech,Email Campaign,Agri Meet,23,Prospecting,45728,,48451.34,0,Meera Shah,OPP-00210
+Team B,Middle-East,SafeBank,Financial Services,Partnership,Referral Program,43,Qualified,45834,,17060.75,0,Meera Shah,OPP-00211
+Team B,Latin-America,CloudWorks,Cloud Computing,Event,FinTech Webinar,29,Proposal Sent,45816,,195472.36,0,Meera Shah,OPP-00212
+Team D,Europe,CloudWorks,Cloud Computing,Unknown,Spring Launch,32,Proposal Sent,45869,,13285.67,0,Chen Wei,OPP-00213
+Team B,Middle-East,SafeBank,Financial Services,Webinar,Education Forum,77,Prospecting,45205,,130684.91,0,Rohit Menon,OPP-00214
+Team D,Asia-Pacific,GreenSystems,Renewable Energy,Outbound,Education Forum,90,Closed Lost,45321,45488,86706.71,0,Unknown,OPP-00215
+Team A,Asia-Pacific,AgriHarvest,Agriculture,Social Media,Green Tech Day,96,Closed Won,45759,45853,36718.54,43173.8,Alex Patel,OPP-00216
+Team B,Europe,EduNext,Education,Social Media,Agri Meet,78,Qualified,45713,,56726.84,0,Rohit Menon,OPP-00217
+Team D,North-America,EduNext,Education,Email Campaign,Green Tech Day,21,Proposal Sent,45716,,12368.35,0,Emma Johnson,OPP-00218
+Team A,Asia-Pacific,TechNova,Technology,Referral,FinTech Webinar,53,Proposal Sent,45696,,56895.86,0,Alex Patel,OPP-00219
+Team C,Middle-East,MediCore,Healthcare,Email Campaign,Healthcare Expo,75,Proposal Sent,45396,,13805.3,0,Samir Gupta,OPP-00220
+Team A,Latin-America,TechNova,Technology,Referral,Education Forum,20,Qualified,45359,,10168.03,0,Alex Patel,OPP-00221
+Team B,Latin-America,GreenSystems,Renewable Energy,Inbound,Tech Summit,95,Negotiation,45678,,28090.7,0,Meera Shah,OPP-00222
+Team C,Latin-America,AgriCorp,Agriculture,Email Campaign,Summer Outreach,82,Prospecting,45845,,28086.21,0,Lina Fernandez,OPP-00223
+Team C,North-America,TechNova,Technology,Social Media,GreenTechDay,81,Prospecting,45642,,48229.82,0,Samir Gupta,OPP-00224
+Team A,Europe,CloudWorks,Cloud Computing,Outbound,Agri Meet,36,Proposal Sent,45685,,37791.78,0,Priya Singh,OPP-00225
+Team C,Middle-East,Urbanmobility,Transportation,Event,FinTech Webinar,61,Prospecting,45603,,226141.95,0,Samir Gupta,OPP-00226
+Team C,North-America,HealthPlus,Healthcare,Email Campaign,Education Forum,57,Prospecting,45354,,34738.26,0,Lina Fernandez,OPP-00227
+Team D,Middle-East,BioHealth,Biotechnology,Referral,Summer outreach,27,Prospecting,45451,,15370.1,0,Emma Johnson,OPP-00228
+Team D,North-America,HealthPlus,Healthcare,Referral,Green Tech Day,73,Prospecting,45681,,55542.25,0,Chen Wei,OPP-00229
+Team C,Europe,HealthPlus,Healthcare,Outbound,Summer Outreach,55,Closed Won,45663,45835,15137.28,17109.66,Lina Fernandez,OPP-00230
+Team E,Latin-America,FinEdge,Financial Services,Social Media,Tech summit,98,Proposal Sent,45404,,60604.69,0,Sara Ibrahim,OPP-00231
+Team D,North-America,FinPeak,FinTech,Inbound,Education Forum,68,Closed Won,45271,45335,38058.44,39030.54,Emma Johnson,OPP-00232
+Team D,North-America,AgriHarvest,Agriculture,Webinar,referral program,84,Proposal Sent,45183,,71006.08,0,Emma Johnson,OPP-00233
+Team C,Middle-East,GreenTech,Renewable Energy,Outbound,Referral Program,61,Negotiation,45417,,69773.04,0,Samir Gupta,OPP-00234
+Team B,Asia-Pacific,CloudWorks,Cloud Computing,Referral,TechSummit,28,Prospecting,45457,,97337.15,0,Rohit Menon,OPP-00235
+Team A,North-America,MediCore,Healthcare,Event,education forum,84,Negotiation,45458,,16672.99,0,Priya Singh,OPP-00236
+Team E,Europe,GreenTech,Renewable Energy,Partnership,Spring Launch,71,Qualified,45185,,55960.87,0,Rafael Souza,OPP-00237
+Team D,Middle-East,AgriHarvest,Agriculture,Event,Healthcare Expo,72,Qualified,45282,,21079.06,0,Chen Wei,OPP-00238
+Team A,Europe,CloudWorks,Cloud Computing,Referral,Green tech day,79,Closed Won,45786,45869,44655.76,49376.97,Priya Singh,OPP-00239
+Team C,Asia-Pacific,SafeBank,Financial Services,Referral,Summer Outreach,61,Closed Won,45327,45386,68903.99,58234,Lina Fernandez,OPP-00240
+Team B,Latin-America,CloudWorks,Cloud Computing,Email Campaign,Green Tech Day,94,Closed Won,45775,45785,101007.33,106234.39,Rohit Menon,OPP-00241
+Team E,North-America,FinEdge,Financial Services,Event,GreenTechDay,73,Closed Won,45338,45395,28449.17,27195.89,Rafael Souza,OPP-00242
+Team C,Asia-Pacific,MediCore,Healthcare,Webinar,Summer Outreach,77,Qualified,45697,,13919.64,0,Lina Fernandez,OPP-00243
+Team C,North-America,GreenSystems,Renewable Energy,Unknown,Education Forum,96,Closed Won,45218,45230,60548.81,56898.45,Samir Gupta,OPP-00244
+Team A,Asia-Pacific,TechNova,Technology,Partnership,spring launch,69,Prospecting,45500,,38364.97,0,Priya Singh,OPP-00245
+Team B,Asia-Pacific,TechNova,Technology,Social Media,Tech Summit,61,Proposal Sent,45201,,46306.655,0,Rohit Menon,OPP-00246
+Team E,Latin-America,FinPeak,FinTech,Referral,green tech day,23,Negotiation,45827,,105673.63,0,Rafael Souza,OPP-00247
+Team D,Europe,SafeBank,Financial Services,Email Campaign,Green Tech Day,82,Closed Won,45286,45304,31118.31,27539.29,Chen Wei,OPP-00248
+Team C,Middle-East,MarketIQ,Market Intelligence,Unknown,Tech Summit,82,Negotiation,45605,,46306.655,0,Lina Fernandez,OPP-00249
+Team A,Middle-East,FinPeak,FinTech,Webinar,Green tech day,92,Qualified,45867,,59771.76,0,Alex Patel,OPP-00250
+Team A,Latin-America,HealthPlus,Healthcare,Email Campaign,Agri Meet,48,Qualified,45792,,103381.84,0,Alex Patel,OPP-00251
+Team E,Middle-East,AgriHarvest,Agriculture,Social Media,Spring Launch,43,Prospecting,45415,,75473.44,0,Rafael Souza,OPP-00252
+Team A,Middle-East,GreenSystems,Renewable Energy,Partnership,Referral Program,26,Proposal Sent,45501,,28088.88,0,Alex Patel,OPP-00253
+Team E,Latin-America,EduNext,Education,Partnership,Summer Outreach,73,Closed Won,45420,45441,77088.54,64623.53,Sara Ibrahim,OPP-00254
+Team B,Latin-America,EduNext,Education,Webinar,Tech Summit,51,Closed Won,45670,45753,68361.04,64224.54,Rohit Menon,OPP-00255
+Team E,Latin-America,CloudWorks,Cloud Computing,Outbound,Spring Launch,73,Prospecting,45342,,188399.43,0,Sara Ibrahim,OPP-00256
+Team A,North-America,MarketIQ,Market Intelligence,Unknown,Tech Summit,59,Proposal Sent,45399,,68878.4,0,Priya Singh,OPP-00257
+Team A,Latin-America,HealthPlus,Healthcare,Partnership,Healthcare Expo,40,Qualified,45739,,62905.49,0,Priya Singh,OPP-00258
+Team C,Asia-Pacific,SafeBank,Financial Services,Webinar,Education Forum,79,Proposal Sent,45444,,23789.83,0,Samir Gupta,OPP-00259
+Team E,Asia-Pacific,FinEdge,Financial Services,Email Campaign,Summer Outreach,40,Prospecting,45794,,43682.56,0,Rafael Souza,OPP-00260
+Team D,Asia-Pacific,BioHealth,Biotechnology,Referral,Summer Outreach,82,Proposal Sent,45699,,86362.76,0,Unknown,OPP-00261
+Team C,Middle-East,GreenTech,Renewable Energy,Partnership,Spring launch,56,Closed Won,45682,45858,23507.18,26397.09,Lina Fernandez,OPP-00262
+Team B,Middle-East,MediCore,Healthcare,Social Media,FinTech Webinar,62,Closed Won,45860,45869,20415.31,16860.17,Rohit Menon,OPP-00263
+Team E,North-America,CloudWorks,Cloud Computing,Inbound,Green tech day,44,Closed Won,45444,45595,85155.19,69287.81,Sara Ibrahim,OPP-00264
+Team C,Middle-East,FinPeak,FinTech,Outbound,Summer Outreach,39,Prospecting,45607,,46441.63,0,Lina Fernandez,OPP-00265
+Team B,Asia-Pacific,MarketIQ,Market Intelligence,Email Campaign,Unknown,48,Proposal Sent,45604,,14349.59,0,Meera Shah,OPP-00266
+Team D,Latin-America,AgriCorp,Agriculture,Event,Education Forum,74,Prospecting,45856,,80515.06,0,Chen Wei,OPP-00267
+Team A,Europe,FinPeak,FinTech,Referral,Green Tech Day,66,Negotiation,45645,,31043.28,0,Priya Singh,OPP-00268
+Team A,Latin-America,FinPeak,FinTech,Partnership,Summer Outreach,76,Closed Won,45753,45787,51174.61,41624.83,Alex Patel,OPP-00269
+Team D,Middle-East,MarketIQ,Market Intelligence,Partnership,Agri Meet,66,Qualified,45672,,74115.16,0,Chen Wei,OPP-00270
+Team D,Middle-East,MarketIQ,Market Intelligence,Social Media,Tech Summit,84,Closed Won,45310,45339,30470.32,32732.93,Chen Wei,OPP-00271
+Team E,Latin-America,GreenSystems,Renewable Energy,Social Media,FinTech Webinar,29,Proposal Sent,45202,,73440.28,0,Sara Ibrahim,OPP-00272
+Team A,Europe,MediCore,Healthcare,Event,Tech Summit,73,Proposal Sent,45305,,60177.98,0,Alex Patel,OPP-00273
+Team D,Latin-America,AgriHarvest,Agriculture,Email Campaign,Healthcare Expo,31,Prospecting,45798,,69207.79,0,Chen Wei,OPP-00274
+Team B,Europe,MediCore,Healthcare,Referral,Green Tech Day,64,Prospecting,45765,,50310.87,0,Meera Shah,OPP-00275
+Team A,Latin-America,AgriCorp,Agriculture,Referral,Healthcare Expo,42,Closed Lost,45257,45282,80280.89,0,Priya Singh,OPP-00276
+Team D,Middle-East,SafeBank,Financial Services,Email Campaign,Referral Program,20,Prospecting,45608,,64334.51,0,Emma Johnson,OPP-00277
+Team D,Asia-Pacific,GreenSystems,Renewable Energy,Partnership,Spring launch,58,Prospecting,45450,,33494.56,0,Chen Wei,OPP-00278
+Team B,Latin-America,MarketIQ,Market Intelligence,Outbound,Green Tech Day,41,Qualified,45352,,20792.6,0,Rohit Menon,OPP-00279
+Team E,Asia-Pacific,FinPeak,FinTech,Partnership,Healthcare Expo,25,Proposal Sent,45422,,55733.46,0,Rafael Souza,OPP-00280
+Team E,Middle-East,AgriHarvest,Agriculture,Social Media,Tech summit,85,Closed Won,45235,45269,33548.02,35027.04,Rafael Souza,OPP-00281
+Team E,Asia-Pacific,GreenSystems,Renewable Energy,Email Campaign,Education Forum,98,Prospecting,45822,,41922.76,0,Sara Ibrahim,OPP-00282
+Team B,Latin-America,AgriCorp,Agriculture,Inbound,Healthcare Expo,51,Closed Won,45420,45561,32488.94,37226.1,Meera Shah,OPP-00283
+Team D,Latin-America,FinPeak,FinTech,Referral,Referral Program,96,Qualified,45836,,68673.88,0,Emma Johnson,OPP-00284
+Team B,Asia-Pacific,Urbanmobility,Unknown,Inbound,healthcare expo,87,Qualified,45786,,13373.63,0,Rohit Menon,OPP-00285
+Team C,Latin-America,Urbanmobility,Transportation,Social Media,Green Tech Day,41,Qualified,45589,,21228.34,0,Samir Gupta,OPP-00286
+Team D,Europe,AgriHarvest,Agriculture,Partnership,Healthcare Expo,96,Qualified,45722,,78956.99,0,Emma Johnson,OPP-00287
+Team D,Middle-East,Urbanmobility,Transportation,Referral,Referral Program,43,Qualified,45468,,57187.05,0,Emma Johnson,OPP-00288
+Team C,North-America,MarketIQ,Market Intelligence,Outbound,SpringLaunch,32,Negotiation,45787,,30256.05,0,Samir Gupta,OPP-00289
+Team A,Asia-Pacific,BioHealth,Biotechnology,Webinar,Tech Summit,63,Proposal Sent,45505,,69480.89,0,Priya Singh,OPP-00290
+Team B,Middle-East,TechNova,Technology,Webinar,Healthcare Expo,49,Prospecting,45370,,46764.28,0,Rohit Menon,OPP-00291
+Team A,Latin-America,BioHealth,Biotechnology,Partnership,Agri Meet,61,Proposal Sent,45226,,83220.48,0,Priya Singh,OPP-00292
+Team E,Asia-Pacific,CloudWorks,Cloud Computing,Outbound,Fintech webinar,50,Qualified,45663,,84221.24,0,Sara Ibrahim,OPP-00293
+Team C,Europe,HealthPlus,Healthcare,Event,Education Forum,91,Prospecting,45186,,94838.84,0,Lina Fernandez,OPP-00294
+Team D,Asia-Pacific,EduNext,Education,Email Campaign,EducationForum,22,Prospecting,45723,,49766.24,0,Emma Johnson,OPP-00295
+Team B,Europe,EduNext,Education,Partnership,Education Forum,71,Negotiation,45203,,34935.33,0,Rohit Menon,OPP-00296
+Team A,Latin-America,GreenTech,Renewable Energy,Referral,Referral Program,59,Negotiation,45511,,95847.81,0,Priya Singh,OPP-00297
+Team C,Middle-East,AgriCorp,Agriculture,Outbound,FinTech Webinar,94,Prospecting,45528,,120243.41,0,Samir Gupta,OPP-00298
+Team D,Asia-Pacific,CloudWorks,Cloud Computing,Unknown,Agri Meet,60,Closed Lost,45653,45672,46657.58,0,Chen Wei,OPP-00299
+Team C,Asia-Pacific,TechNova,Technology,Event,tech summit,72,Prospecting,45340,,6998.2,0,Lina Fernandez,OPP-00300
+Team A,Europe,BioHealth,Biotechnology,Partnership,Summer Outreach,90,Prospecting,45183,,31495.92,0,Alex Patel,OPP-00301
+Team D,North-America,GreenTech,Renewable Energy,Social Media,Spring Launch,81,Qualified,45335,,16681.71,0,Chen Wei,OPP-00302
+Team C,North-America,TechNova,Technology,Webinar,Tech Summit,79,Closed Won,45647,45754,131939.71,146135.98,Samir Gupta,OPP-00303
+Team A,Asia-Pacific,FinEdge,Financial Services,Outbound,FinTech Webinar,55,Closed Won,45248,45377,60772.46,69870.5,Priya Singh,OPP-00304
+Team B,Asia-Pacific,BioHealth,Biotechnology,Outbound,Green Tech Day,84,Closed Lost,45637,45718,28332.36,0,Meera Shah,OPP-00305
+Team D,Latin-America,FinPeak,FinTech,Inbound,Agri Meet,28,Prospecting,45229,,33799.14,0,Chen Wei,OPP-00306
+Team D,Latin-America,MarketIQ,Market Intelligence,Email Campaign,FinTech Webinar,51,Qualified,45325,,69500.98,0,Emma Johnson,OPP-00307
+Team D,Europe,SafeBank,Unknown,Social Media,Agri Meet,76,Prospecting,45437,,74992.64,0,Chen Wei,OPP-00308
+Team D,Latin-America,SafeBank,Financial Services,Event,Spring Launch,33,Prospecting,45287,,55736.62,0,Emma Johnson,OPP-00309
+Team E,Asia-Pacific,TechNova,Technology,Referral,FinTech Webinar,76,Prospecting,45248,,46306.655,0,Sara Ibrahim,OPP-00310
+Team A,Europe,CloudWorks,Cloud Computing,Unknown,agri meet,75,Negotiation,45220,,65734.6,0,Priya Singh,OPP-00311
+Team A,Latin-America,GreenTech,Renewable Energy,Webinar,Education Forum,39,Prospecting,45269,,53880.01,0,Alex Patel,OPP-00312
+Team D,Asia-Pacific,FinPeak,FinTech,Inbound,Referral Program,54,Qualified,45540,,16816.39,0,Chen Wei,OPP-00313
+Team D,Latin-America,TechNova,Technology,Outbound,Tech Summit,91,Qualified,45319,,82387.56,0,Chen Wei,OPP-00314
+Team E,Asia-Pacific,MediCore,Healthcare,Email Campaign,Education forum,38,Prospecting,45656,,23869.01,0,Sara Ibrahim,OPP-00315
+Team B,Europe,BioHealth,Biotechnology,Webinar,FinTech Webinar,44,Closed Won,45181,45288,88923.65,84656.81,Rohit Menon,OPP-00316
+Team E,Asia-Pacific,GreenSystems,Renewable Energy,Inbound,referral program,56,Prospecting,45848,,62502.74,0,Rafael Souza,OPP-00317
+Team C,Europe,AgriCorp,Agriculture,Email Campaign,Education Forum,20,Closed Lost,45437,45552,14764.66,0,Lina Fernandez,OPP-00318
+Team D,Asia-Pacific,MediCore,Healthcare,Partnership,Healthcare Expo,99,Prospecting,45204,,61853.39,0,Chen Wei,OPP-00319
+Team D,North-America,AgriHarvest,Agriculture,Social Media,Education Forum,58,Qualified,45255,,86334.18,0,Emma Johnson,OPP-00320
+Team C,Asia-Pacific,FinPeak,FinTech,Social Media,FinTech Webinar,53,Closed Won,45676,45683,58179.28,69421.09,Samir Gupta,OPP-00321
+Team E,Europe,FinEdge,Financial Services,Outbound,Spring Launch,87,Closed Won,45310,45337,40462.91,45799.52,Rafael Souza,OPP-00322
+Team C,Latin-America,TechNova,Technology,Social Media,Unknown,97,Negotiation,45201,,44959.6,0,Samir Gupta,OPP-00323
+Team A,Europe,SafeBank,Financial Services,Webinar,Agri Meet,61,Qualified,45582,,18403.55,0,Alex Patel,OPP-00324
+Team C,North-America,Urbanmobility,Transportation,Email Campaign,Green Tech Day,83,Closed Lost,45288,45466,25826.25,0,Lina Fernandez,OPP-00325
+Team E,Europe,AgriCorp,Agriculture,Event,Referral Program,67,Proposal Sent,45604,,68190.1,0,Sara Ibrahim,OPP-00326
+Team C,Middle-East,AgriHarvest,Agriculture,Referral,SpringLaunch,92,Proposal Sent,45409,,112002.35,0,Samir Gupta,OPP-00327
+Team B,Europe,CloudWorks,Cloud Computing,Event,Fintech webinar,61,Proposal Sent,45727,,89501.83,0,Rohit Menon,OPP-00328
+Team E,North-America,FinEdge,Financial Services,Social Media,Spring Launch,61,Qualified,45523,,37604.4,0,Rafael Souza,OPP-00329
+Team A,Middle-East,AgriHarvest,Agriculture,Inbound,HealthcareExpo,96,Negotiation,45242,,25263.46,0,Priya Singh,OPP-00330
+Team B,Latin-America,FinPeak,FinTech,Email Campaign,healthcare expo,75,Negotiation,45221,,29281.31,0,Meera Shah,OPP-00331
+Team A,Middle-East,SafeBank,Financial Services,Inbound,Referral Program,77,Prospecting,45590,,82666.27,0,Priya Singh,OPP-00332
+Team C,Middle-East,MediCore,Healthcare,Referral,Summer outreach,27,Prospecting,45369,,42600.14,0,Lina Fernandez,OPP-00333
+Team B,North-America,MediCore,Healthcare,Email Campaign,Unknown,83,Qualified,45556,,101432.03,0,Rohit Menon,OPP-00334
+Team B,Asia-Pacific,BioHealth,Biotechnology,Referral,Education Forum,60,Prospecting,45229,,27941.33,0,Meera Shah,OPP-00335
+Team A,Middle-East,FinEdge,Financial Services,Partnership,Education Forum,61,Prospecting,45313,,29428.56,0,Priya Singh,OPP-00336
+Team A,Latin-America,MarketIQ,Market Intelligence,Email Campaign,education forum,33,Proposal Sent,45740,,90641.24,0,Priya Singh,OPP-00337
+Team C,North-America,FinEdge,Financial Services,Inbound,FinTech Webinar,59,Prospecting,45479,,44157.37,0,Samir Gupta,OPP-00338
+Team E,Latin-America,EduNext,Education,Webinar,Referral Program,37,Closed Lost,45580,45737,140155.84,0,Rafael Souza,OPP-00339
+Team C,Europe,MediCore,Healthcare,Email Campaign,Summer Outreach,33,Negotiation,45372,,46306.655,0,Lina Fernandez,OPP-00340
+Team A,Asia-Pacific,MediCore,Healthcare,Partnership,Healthcare Expo,61,Closed Lost,45666,45781,33994.4,0,Alex Patel,OPP-00341
+Team D,Latin-America,HealthPlus,Healthcare,Email Campaign,Agri Meet,96,Prospecting,45337,,55493.47,0,Chen Wei,OPP-00342
+Team B,Middle-East,CloudWorks,Cloud Computing,Outbound,Referral Program,74,Prospecting,45476,,71261.89,0,Meera Shah,OPP-00343
+Team D,North-America,EduNext,Education,Webinar,Summer Outreach,69,Proposal Sent,45195,,63407.99,0,Emma Johnson,OPP-00344
+Team B,North-America,EduNext,Education,Webinar,Tech Summit,21,Prospecting,45791,,83374.04,0,Rohit Menon,OPP-00345
+Team E,Middle-East,AgriHarvest,Agriculture,Outbound,Healthcare Expo,77,Prospecting,45308,,21481.7,0,Rafael Souza,OPP-00346
+Team A,Asia-Pacific,FinPeak,FinTech,Email Campaign,Tech Summit,61,Prospecting,45550,,38818.88,0,Priya Singh,OPP-00347
+Team E,Europe,SafeBank,Financial Services,Inbound,FinTech Webinar,26,Proposal Sent,45513,,11421.35,0,Sara Ibrahim,OPP-00348
+Team E,North-America,EduNext,Education,Outbound,Education Forum,24,Qualified,45628,,33232.25,0,Rafael Souza,OPP-00349
+Team B,North-America,AgriCorp,Agriculture,Email Campaign,Green tech day,61,Prospecting,45570,,20585.68,0,Rohit Menon,OPP-00350
+Team C,Asia-Pacific,EduNext,Education,Email Campaign,FinTech Webinar,51,Prospecting,45214,,21500.65,0,Samir Gupta,OPP-00351
+Team D,North-America,GreenSystems,Renewable Energy,Unknown,Spring Launch,38,Closed Won,45466,45545,25181.77,27981.67,Chen Wei,OPP-00352
+Team C,Latin-America,AgriCorp,Agriculture,Referral,Tech Summit,58,Prospecting,45799,,17832.61,0,Samir Gupta,OPP-00353
+Team E,North-America,MediCore,Healthcare,Partnership,Summer Outreach,68,Prospecting,45843,,30644.15,0,Sara Ibrahim,OPP-00354
+Team E,Middle-East,AgriHarvest,Agriculture,Outbound,Healthcare Expo,88,Prospecting,45792,,17276.62,0,Sara Ibrahim,OPP-00355
+Team C,Middle-East,Urbanmobility,Transportation,Social Media,Education Forum,44,Prospecting,45862,,58912.96,0,Samir Gupta,OPP-00356
+Team B,North-America,AgriHarvest,Agriculture,Outbound,Green Tech Day,49,Qualified,45444,,40811.46,0,Rohit Menon,OPP-00357
+Team B,North-America,BioHealth,Biotechnology,Event,Healthcare Expo,85,Qualified,45565,,73158.07,0,Rohit Menon,OPP-00358
+Team B,Europe,HealthPlus,Healthcare,Inbound,Tech Summit,80,Qualified,45216,,39016.28,0,Rohit Menon,OPP-00359
+Team B,Asia-Pacific,HealthPlus,Healthcare,Social Media,Referral Program,64,Qualified,45588,,80805.02,0,Meera Shah,OPP-00360
+Team E,Asia-Pacific,TechNova,Technology,Social Media,Agri meet,49,Prospecting,45443,,26603.64,0,Rafael Souza,OPP-00361
+Team D,North-America,AgriHarvest,Agriculture,Referral,Healthcare Expo,31,Prospecting,45838,,19613.22,0,Emma Johnson,OPP-00362
+Team C,Europe,GreenTech,Renewable Energy,Outbound,Healthcare Expo,88,Qualified,45478,,93812.21,0,Lina Fernandez,OPP-00363
+Team E,North-America,CloudWorks,Cloud Computing,Partnership,referral program,40,Prospecting,45621,,32453.06,0,Sara Ibrahim,OPP-00364
+Team A,Asia-Pacific,TechNova,Technology,Event,Fintech webinar,60,Qualified,45868,,13260.84,0,Alex Patel,OPP-00365
+Team E,Europe,HealthPlus,Healthcare,Webinar,Summer Outreach,42,Prospecting,45440,,18879.51,0,Sara Ibrahim,OPP-00366
+Team B,Middle-East,EduNext,Education,Inbound,Agri Meet,66,Negotiation,45759,,46306.655,0,Unknown,OPP-00367
+Team A,Middle-East,MediCore,Healthcare,Social Media,Tech Summit,79,Proposal Sent,45554,,36910.12,0,Alex Patel,OPP-00368
+Team C,Europe,HealthPlus,Healthcare,Inbound,Green Tech Day,70,Closed Lost,45290,45305,11348.89,0,Lina Fernandez,OPP-00369
+Team C,Europe,CloudWorks,Cloud Computing,Partnership,Summer Outreach,70,Closed Lost,45305,45363,26128.17,0,Lina Fernandez,OPP-00370
+Team A,Asia-Pacific,AgriCorp,Agriculture,Referral,tech summit,49,Prospecting,45261,,17347.73,0,Priya Singh,OPP-00371
+Team B,North-America,GreenSystems,Renewable Energy,Partnership,Green Tech Day,70,Closed Lost,45420,45505,62853.61,0,Meera Shah,OPP-00372
+Team C,Middle-East,FinEdge,Financial Services,Social Media,Healthcare Expo,52,Negotiation,45483,,15844.1,0,Lina Fernandez,OPP-00373
+Team D,Asia-Pacific,Urbanmobility,Transportation,Event,Healthcare Expo,82,Prospecting,45440,,108779.86,0,Emma Johnson,OPP-00374
+Team C,Middle-East,BioHealth,Biotechnology,Social Media,Spring Launch,72,Qualified,45759,,15092.26,0,Samir Gupta,OPP-00375
+Team B,Asia-Pacific,GreenTech,Renewable Energy,Social Media,Education Forum,85,Prospecting,45827,,16618.77,0,Rohit Menon,OPP-00376
+Team C,Middle-East,GreenSystems,Renewable Energy,Social Media,agri meet,85,Prospecting,45261,,23056.35,0,Samir Gupta,OPP-00377
+Team D,Middle-East,EduNext,Education,Email Campaign,Spring Launch,63,Negotiation,45801,,55107.47,0,Emma Johnson,OPP-00378
+Team E,North-America,FinEdge,Financial Services,Social Media,Healthcare expo,99,Qualified,45192,,111298.27,0,Sara Ibrahim,OPP-00379
+Team D,Asia-Pacific,MediCore,Healthcare,Referral,Summer Outreach,51,Proposal Sent,45251,,82782.86,0,Emma Johnson,OPP-00380
+Team A,Europe,EduNext,Education,Social Media,Green Tech Day,88,Proposal Sent,45410,,25286.91,0,Alex Patel,OPP-00381
+Team D,Asia-Pacific,FinEdge,Financial Services,Social Media,Summer Outreach,76,Prospecting,45197,,26056.75,0,Chen Wei,OPP-00382
+Team E,North-America,SafeBank,Financial Services,Outbound,Spring Launch,56,Closed Won,45617,45703,76738.67,82063.5,Sara Ibrahim,OPP-00383
+Team A,Middle-East,BioHealth,Biotechnology,Webinar,Spring Launch,60,Prospecting,45741,,50205.84,0,Alex Patel,OPP-00384
+Team B,Latin-America,GreenTech,Renewable Energy,Social Media,Education Forum,78,Proposal Sent,45284,,44055.83,0,Rohit Menon,OPP-00385
+Team D,Europe,SafeBank,Financial Services,Outbound,FinTech Webinar,47,Closed Lost,45361,45436,35766.65,0,Emma Johnson,OPP-00386
+Team E,Middle-East,AgriCorp,Agriculture,Webinar,AgriMeet,36,Qualified,45384,,35733.75,0,Unknown,OPP-00387
+Team D,Latin-America,MediCore,Healthcare,Social Media,Healthcare Expo,33,Closed Lost,45807,45869,56559.45,0,Emma Johnson,OPP-00388
+Team A,Middle-East,BioHealth,Biotechnology,Outbound,Tech Summit,73,Qualified,45675,,16124.66,0,Unknown,OPP-00389
+Team B,North-America,Urbanmobility,Transportation,Social Media,Tech Summit,37,Closed Won,45439,45494,52007.62,46995.93,Rohit Menon,OPP-00390
+Team B,North-America,BioHealth,Biotechnology,Social Media,Education Forum,88,Qualified,45667,,33493.72,0,Meera Shah,OPP-00391
+Team A,Europe,EduNext,Education,Webinar,Spring Launch,39,Prospecting,45267,,13825.19,0,Priya Singh,OPP-00392
+Team D,Asia-Pacific,Urbanmobility,Transportation,Outbound,Green Tech Day,40,Closed Won,45447,45479,86129.63,70326.56,Unknown,OPP-00393
+Team C,Latin-America,AgriHarvest,Agriculture,Partnership,Summer Outreach,60,Closed Won,45848,45869,51228.26,54121.4,Lina Fernandez,OPP-00394
+Team A,Latin-America,MediCore,Healthcare,Inbound,Spring Launch,62,Negotiation,45766,,158368.89,0,Priya Singh,OPP-00395
+Team D,Europe,MarketIQ,Market Intelligence,Event,Summer Outreach,54,Qualified,45219,,77112.66,0,Chen Wei,OPP-00396
+Team E,Asia-Pacific,FinPeak,FinTech,Social Media,Agri Meet,80,Qualified,45543,,8976.65,0,Sara Ibrahim,OPP-00397
+Team B,Middle-East,TechNova,Technology,Outbound,FinTech Webinar,96,Prospecting,45441,,20824.1,0,Rohit Menon,OPP-00398
+Team E,North-America,Urbanmobility,Transportation,Webinar,Agri Meet,26,Proposal Sent,45393,,81825.21,0,Rafael Souza,OPP-00399
+Team C,Middle-East,BioHealth,Biotechnology,Webinar,Agri Meet,38,Qualified,45224,,62988.59,0,Samir Gupta,OPP-00400
+Team E,Asia-Pacific,AgriCorp,Agriculture,Social Media,agri meet,94,Prospecting,45791,,122796.07,0,Sara Ibrahim,OPP-00401
+Team D,Latin-America,EduNext,Education,Social Media,HealthcareExpo,22,Closed Won,45674,45703,22621.92,18190.28,Emma Johnson,OPP-00402
+Team D,Middle-East,AgriCorp,Agriculture,Event,Tech Summit,98,Prospecting,45610,,102972.81,0,Chen Wei,OPP-00403
+Team B,Europe,GreenTech,Renewable Energy,Partnership,Green Tech Day,56,Closed Lost,45868,45869,124858.35,0,Rohit Menon,OPP-00404
+Team D,Latin-America,AgriHarvest,Agriculture,Webinar,Spring Launch,26,Qualified,45470,,37485.5,0,Emma Johnson,OPP-00405
+Team E,Middle-East,AgriHarvest,Agriculture,Social Media,agri meet,40,Closed Won,45232,45367,77521.3,82721.29,Sara Ibrahim,OPP-00406
+Team D,Asia-Pacific,TechNova,Technology,Inbound,Healthcare Expo,61,Negotiation,45738,,157917.51,0,Chen Wei,OPP-00407
+Team E,North-America,EduNext,Education,Outbound,Education Forum,96,Prospecting,45248,,38538.25,0,Rafael Souza,OPP-00408
+Team D,Middle-East,MediCore,Healthcare,Partnership,Referral Program,31,Prospecting,45668,,69560.44,0,Chen Wei,OPP-00409
+Team D,Latin-America,HealthPlus,Healthcare,Webinar,Education Forum,37,Qualified,45426,,39542.52,0,Chen Wei,OPP-00410
+Team E,Europe,SafeBank,Financial Services,Outbound,Summer outreach,58,Prospecting,45347,,137063.82,0,Sara Ibrahim,OPP-00411
+Team E,Asia-Pacific,HealthPlus,Healthcare,Webinar,tech summit,74,Closed Won,45655,45789,46306.655,0,Rafael Souza,OPP-00412
+Team E,Latin-America,FinEdge,Financial Services,Inbound,Tech Summit,72,Qualified,45766,,14807.11,0,Sara Ibrahim,OPP-00413
+Team E,Asia-Pacific,AgriCorp,Agriculture,Partnership,Spring launch,94,Prospecting,45264,,31791.09,0,Sara Ibrahim,OPP-00414
+Team A,Middle-East,CloudWorks,Cloud Computing,Webinar,Education Forum,78,Proposal Sent,45539,,44547.88,0,Priya Singh,OPP-00415
+Team C,North-America,GreenTech,Unknown,Partnership,Agri Meet,35,Qualified,45609,,119224.5,0,Lina Fernandez,OPP-00416
+Team B,Latin-America,SafeBank,Financial Services,Email Campaign,HealthcareExpo,72,Closed Lost,45777,45855,42260.52,0,Meera Shah,OPP-00417
+Team E,North-America,GreenTech,Renewable Energy,Unknown,AgriMeet,98,Prospecting,45316,,91471.83,0,Rafael Souza,OPP-00418
+Team C,Asia-Pacific,SafeBank,Financial Services,Outbound,Spring Launch,49,Proposal Sent,45849,,43296.02,0,Lina Fernandez,OPP-00419
+Team D,North-America,AgriHarvest,Agriculture,Outbound,Agri Meet,43,Prospecting,45678,,46306.655,0,Emma Johnson,OPP-00420
+Team D,North-America,GreenSystems,Renewable Energy,Outbound,Green Tech Day,96,Negotiation,45532,,15757.5,0,Emma Johnson,OPP-00421
+Team D,Middle-East,AgriHarvest,Agriculture,Outbound,FinTech webinar,27,Negotiation,45234,,46469.64,0,Chen Wei,OPP-00422
+Team B,Latin-America,AgriCorp,Agriculture,Event,Referral Program,35,Qualified,45219,,88497.46,0,Rohit Menon,OPP-00423
+Team B,North-America,CloudWorks,Cloud Computing,Email Campaign,Healthcare Expo,97,Closed Lost,45476,45490,38541.39,0,Rohit Menon,OPP-00424
+Team C,Middle-East,EduNext,Education,Referral,Agri Meet,47,Closed Won,45340,45512,67807.53,58283.52,Lina Fernandez,OPP-00425
+Team D,North-America,FinEdge,Financial Services,Social Media,Healthcare Expo,48,Proposal Sent,45661,,66189.88,0,Emma Johnson,OPP-00426
+Team B,Europe,BioHealth,Biotechnology,Social Media,FinTech Webinar,30,Closed Lost,45663,45722,160414.94,0,Meera Shah,OPP-00427
+Team B,Asia-Pacific,AgriCorp,Agriculture,Webinar,Referral Program,67,Qualified,45519,,95290.51,0,Rohit Menon,OPP-00428
+Team A,Europe,SafeBank,Financial Services,Webinar,Agri Meet,34,Prospecting,45301,,16475.81,0,Priya Singh,OPP-00429
+Team B,Europe,AgriCorp,Agriculture,Event,education forum,61,Qualified,45633,,139694.51,0,Rohit Menon,OPP-00430
+Team E,North-America,BioHealth,Biotechnology,Partnership,referral program,98,Closed Lost,45333,45391,92055.96,0,Rafael Souza,OPP-00431
+Team B,Latin-America,FinPeak,FinTech,Email Campaign,Referral program,68,Negotiation,45308,,48244.91,0,Rohit Menon,OPP-00432
+Team A,Europe,AgriHarvest,Agriculture,Webinar,Green Tech Day,78,Qualified,45390,,37424.72,0,Alex Patel,OPP-00433
+Team A,Middle-East,AgriCorp,Agriculture,Social Media,agri meet,34,Prospecting,45215,,16956.32,0,Alex Patel,OPP-00434
+Team C,Europe,MarketIQ,Market Intelligence,Partnership,Education Forum,88,Prospecting,45642,,52911.82,0,Lina Fernandez,OPP-00435
+Team D,Asia-Pacific,FinEdge,Financial Services,Inbound,Tech Summit,40,Qualified,45305,,44856.15,0,Chen Wei,OPP-00436
+Team B,Latin-America,MediCore,Healthcare,Inbound,Summer Outreach,31,Qualified,45385,,37447.53,0,Meera Shah,OPP-00437
+Team B,North-America,GreenTech,Renewable Energy,Webinar,Summer Outreach,38,Prospecting,45528,,61277.42,0,Meera Shah,OPP-00438
+Team D,North-America,FinPeak,Unknown,Partnership,FinTech Webinar,32,Closed Lost,45521,45686,42199.95,0,Emma Johnson,OPP-00439
+Team D,North-America,EduNext,Education,Partnership,Healthcare Expo,41,Prospecting,45219,,10378.96,0,Emma Johnson,OPP-00440
+Team E,Latin-America,GreenSystems,Renewable Energy,Partnership,Fintech webinar,89,Qualified,45673,,13833.69,0,Sara Ibrahim,OPP-00441
+Team A,Middle-East,MarketIQ,Market Intelligence,Email Campaign,Referral Program,74,Proposal Sent,45477,,8156.59,0,Alex Patel,OPP-00442
+Team B,Middle-East,CloudWorks,Cloud Computing,Outbound,Unknown,96,Qualified,45180,,73248.96,0,Meera Shah,OPP-00443
+Team D,Asia-Pacific,GreenTech,Renewable Energy,Event,Education Forum,98,Prospecting,45229,,8481.47,0,Chen Wei,OPP-00444
+Team A,Europe,MediCore,Healthcare,Outbound,Agri Meet,72,Prospecting,45701,,79446.5,0,Alex Patel,OPP-00445
+Team C,Latin-America,FinEdge,Financial Services,Social Media,Tech Summit,81,Negotiation,45748,,33197.52,0,Samir Gupta,OPP-00446
+Team B,Latin-America,EduNext,Education,Outbound,Unknown,65,Prospecting,45630,,14588.67,0,Meera Shah,OPP-00447
+Team D,Middle-East,AgriHarvest,Agriculture,Inbound,Agri meet,37,Proposal Sent,45764,,78784.53,0,Emma Johnson,OPP-00448
+Team A,Europe,TechNova,Technology,Email Campaign,Agri Meet,32,Qualified,45421,,51446.2,0,Alex Patel,OPP-00449
+Team E,Latin-America,MediCore,Healthcare,Event,Summer Outreach,27,Prospecting,45331,,47362.3,0,Sara Ibrahim,OPP-00450
+Team E,North-America,GreenSystems,Renewable Energy,Inbound,Tech Summit,40,Prospecting,45471,,38892.08,0,Sara Ibrahim,OPP-00451
+Team D,Latin-America,SafeBank,Financial Services,Webinar,Referral Program,73,Qualified,45234,,29199.32,0,Emma Johnson,OPP-00452
+Team B,Asia-Pacific,EduNext,Education,Inbound,Green Tech Day,73,Qualified,45557,,63969.64,0,Meera Shah,OPP-00453
+Team E,Latin-America,SafeBank,Financial Services,Social Media,Tech Summit,49,Proposal Sent,45744,,74935.22,0,Rafael Souza,OPP-00454
+Team E,Asia-Pacific,GreenTech,Renewable Energy,Outbound,referral program,38,Prospecting,45497,,114661.03,0,Sara Ibrahim,OPP-00455
+Team C,Latin-America,FinPeak,FinTech,Social Media,Summer Outreach,98,Proposal Sent,45368,,43800.52,0,Lina Fernandez,OPP-00456
+Team D,Europe,TechNova,Technology,Email Campaign,Summer Outreach,70,Qualified,45369,,58899,0,Chen Wei,OPP-00457
+Team A,Asia-Pacific,AgriCorp,Agriculture,Referral,Tech Summit,88,Qualified,45363,,13385.66,0,Alex Patel,OPP-00458
+Team D,Middle-East,CloudWorks,Cloud Computing,Partnership,Education Forum,95,Qualified,45759,,7473.68,0,Emma Johnson,OPP-00459
+Team A,Europe,FinPeak,FinTech,Event,tech summit,89,Proposal Sent,45569,,44467.17,0,Priya Singh,OPP-00460
+Team B,Latin-America,EduNext,Education,Outbound,FinTech Webinar,50,Qualified,45182,,14790.48,0,Meera Shah,OPP-00461
+Team B,Middle-East,BioHealth,Biotechnology,Email Campaign,SpringLaunch,41,Proposal Sent,45249,,60314.34,0,Rohit Menon,OPP-00462
+Team C,Europe,GreenSystems,Renewable Energy,Event,Agri meet,23,Qualified,45331,,17629.7,0,Lina Fernandez,OPP-00463
+Team E,North-America,TechNova,Technology,Partnership,Spring Launch,83,Proposal Sent,45394,,26636.4,0,Rafael Souza,OPP-00464
+Team A,Middle-East,CloudWorks,Cloud Computing,Outbound,Green Tech Day,35,Closed Won,45586,45678,90324.82,99601.62,Priya Singh,OPP-00465
+Team B,Latin-America,HealthPlus,Healthcare,Referral,Unknown,72,Negotiation,45413,,8148.34,0,Rohit Menon,OPP-00466
+Team A,Asia-Pacific,SafeBank,Financial Services,Event,Summer Outreach,43,Qualified,45622,,114553.99,0,Alex Patel,OPP-00467
+Team D,Latin-America,AgriHarvest,Agriculture,Webinar,Agri Meet,98,Proposal Sent,45431,,65510.21,0,Emma Johnson,OPP-00468
+Team E,Middle-East,FinPeak,FinTech,Social Media,Summer Outreach,24,Prospecting,45618,,70984.92,0,Sara Ibrahim,OPP-00469
+Team E,Asia-Pacific,BioHealth,Biotechnology,Email Campaign,FinTech Webinar,57,Proposal Sent,45345,,36141.47,0,Sara Ibrahim,OPP-00470
+Team D,Europe,GreenTech,Renewable Energy,Social Media,Summer Outreach,67,Qualified,45230,,124319.26,0,Chen Wei,OPP-00471
+Team A,Middle-East,MarketIQ,Market Intelligence,Webinar,Spring launch,93,Prospecting,45412,,58595.41,0,Alex Patel,OPP-00472
+Team B,Middle-East,BioHealth,Biotechnology,Email Campaign,FinTech Webinar,37,Qualified,45736,,92594.15,0,Meera Shah,OPP-00473
+Team E,Latin-America,Urbanmobility,Transportation,Email Campaign,HealthcareExpo,39,Proposal Sent,45761,,73577.06,0,Sara Ibrahim,OPP-00474
+Team C,Asia-Pacific,GreenSystems,Renewable Energy,Social Media,Summer Outreach,61,Prospecting,45667,,35344.38,0,Samir Gupta,OPP-00475
+Team E,Middle-East,GreenTech,Renewable Energy,Referral,fintech webinar,26,Prospecting,45869,,23381.86,0,Rafael Souza,OPP-00476
+Team D,North-America,BioHealth,Biotechnology,Email Campaign,Green Tech Day,24,Prospecting,45755,,29016.55,0,Chen Wei,OPP-00477
+Team B,North-America,TechNova,Technology,Partnership,Agri Meet,95,Qualified,45500,,49744.76,0,Rohit Menon,OPP-00478
+Team D,Europe,AgriCorp,Agriculture,Referral,Education Forum,97,Closed Won,45409,45489,41422.08,40656.6,Chen Wei,OPP-00479
+Team E,North-America,MediCore,Healthcare,Email Campaign,EducationForum,31,Prospecting,45268,,59536.13,0,Rafael Souza,OPP-00480
+Team C,Asia-Pacific,FinPeak,FinTech,Event,AgriMeet,76,Prospecting,45853,,17109.99,0,Lina Fernandez,OPP-00481
+Team A,North-America,AgriCorp,Agriculture,Referral,summer outreach,90,Prospecting,45601,,42475.81,0,Alex Patel,OPP-00482
+Team E,North-America,FinPeak,FinTech,Referral,Green Tech Day,39,Qualified,45466,,26386.54,0,Sara Ibrahim,OPP-00483
+Team C,Latin-America,MarketIQ,Market Intelligence,Email Campaign,Spring Launch,32,Prospecting,45517,,38550.47,0,Samir Gupta,OPP-00484
+Team A,Latin-America,SafeBank,Financial Services,Inbound,Summer Outreach,77,Qualified,45515,,16671.43,0,Priya Singh,OPP-00485
+Team D,Latin-America,SafeBank,Financial Services,Partnership,Green Tech Day,40,Qualified,45553,,37648.31,0,Chen Wei,OPP-00486
+Team A,North-America,MediCore,Healthcare,Referral,HealthcareExpo,62,Negotiation,45444,,24022.4,0,Priya Singh,OPP-00487
+Team E,North-America,CloudWorks,Cloud Computing,Social Media,Spring Launch,92,Qualified,45620,,116583.38,0,Sara Ibrahim,OPP-00488
+Team D,Europe,BioHealth,Biotechnology,Partnership,Healthcare Expo,47,Qualified,45521,,52590.36,0,Emma Johnson,OPP-00489
+Team B,Middle-East,EduNext,Education,Inbound,Green Tech Day,61,Prospecting,45526,,96414.8,0,Rohit Menon,OPP-00490
+Team B,Asia-Pacific,HealthPlus,Healthcare,Email Campaign,Spring Launch,76,Prospecting,45823,,119093.57,0,Unknown,OPP-00491
+Team A,Latin-America,GreenTech,Renewable Energy,Referral,GreenTechDay,48,Prospecting,45615,,145679.89,0,Priya Singh,OPP-00492
+Team B,North-America,AgriHarvest,Agriculture,Partnership,Referral Program,23,Prospecting,45790,,13120.89,0,Meera Shah,OPP-00493
+Team E,North-America,GreenTech,Renewable Energy,Referral,GreenTechDay,80,Negotiation,45375,,58840.94,0,Rafael Souza,OPP-00494
+Team E,Latin-America,CloudWorks,Cloud Computing,Referral,green tech day,35,Prospecting,45803,,46306.655,0,Sara Ibrahim,OPP-00495
+Team E,Asia-Pacific,TechNova,Technology,Unknown,Healthcare Expo,61,Qualified,45610,,65986.93,0,Rafael Souza,OPP-00496
+Team E,Middle-East,CloudWorks,Cloud Computing,Partnership,FinTech Webinar,50,Proposal Sent,45681,,9484.78,0,Rafael Souza,OPP-00497
+Team E,Latin-America,MarketIQ,Market Intelligence,Referral,Agri meet,92,Proposal Sent,45729,,39269.99,0,Rafael Souza,OPP-00498
+Team E,Asia-Pacific,CloudWorks,Cloud Computing,Social Media,Spring Launch,84,Closed Lost,45571,45584,32319.63,0,Sara Ibrahim,OPP-00499
+Team B,Middle-East,EduNext,Education,Referral,Referral Program,34,Prospecting,45568,,44020.56,0,Rohit Menon,OPP-00500
+Team C,Latin-America,Urbanmobility,Transportation,Social Media,SpringLaunch,34,Closed Won,45737,45815,33600.73,28744,Lina Fernandez,OPP-00501
+Team C,Europe,FinPeak,FinTech,Inbound,Agri Meet,57,Negotiation,45675,,59082.16,0,Samir Gupta,OPP-00502
+Team E,Middle-East,BioHealth,Biotechnology,Social Media,Referral Program,70,Closed Won,45744,45775,87214.33,90712.43,Rafael Souza,OPP-00503
+Team E,Asia-Pacific,GreenSystems,Renewable Energy,Partnership,Summer Outreach,36,Closed Won,45567,45727,74098.37,74567.2,Sara Ibrahim,OPP-00504
+Team B,Europe,AgriCorp,Agriculture,Email Campaign,Tech Summit,50,Qualified,45195,,62343.75,0,Unknown,OPP-00505
+Team B,Asia-Pacific,FinPeak,FinTech,Inbound,Green tech day,86,Prospecting,45390,,96664.25,0,Rohit Menon,OPP-00506
+Team D,Asia-Pacific,MediCore,Healthcare,Email Campaign,Agri Meet,72,Prospecting,45595,,23054.38,0,Emma Johnson,OPP-00507
+Team B,Middle-East,GreenSystems,Renewable Energy,Event,Green tech day,61,Negotiation,45798,,23908.17,0,Rohit Menon,OPP-00508
+Team D,Middle-East,SafeBank,Financial Services,Partnership,Tech Summit,22,Qualified,45225,,63697.56,0,Emma Johnson,OPP-00509
+Team E,Asia-Pacific,BioHealth,Unknown,Email Campaign,Tech Summit,71,Negotiation,45213,,66666.35,0,Rafael Souza,OPP-00510
+Team B,North-America,GreenTech,Renewable Energy,Email Campaign,Education Forum,67,Prospecting,45272,,66444.6,0,Meera Shah,OPP-00511
+Team A,Latin-America,FinPeak,FinTech,Social Media,Tech Summit,53,Qualified,45338,,100358.25,0,Alex Patel,OPP-00512
+Team E,Europe,AgriCorp,Agriculture,Partnership,Referral Program,43,Proposal Sent,45655,,24960.7,0,Sara Ibrahim,OPP-00513
+Team E,Asia-Pacific,AgriHarvest,Agriculture,Event,Green Tech Day,72,Qualified,45761,,58993.1,0,Sara Ibrahim,OPP-00514
+Team C,Latin-America,MarketIQ,Market Intelligence,Webinar,AgriMeet,67,Prospecting,45760,,24625.99,0,Lina Fernandez,OPP-00515
+Team C,Europe,CloudWorks,Cloud Computing,Event,Spring Launch,74,Negotiation,45537,,34082.77,0,Lina Fernandez,OPP-00516
+Team D,North-America,AgriCorp,Agriculture,Email Campaign,SummerOutreach,73,Negotiation,45472,,13955.72,0,Chen Wei,OPP-00517
+Team D,North-America,MediCore,Healthcare,Outbound,TechSummit,57,Prospecting,45864,,46306.655,0,Unknown,OPP-00518
+Team E,North-America,MarketIQ,Market Intelligence,Inbound,Referral Program,77,Closed Lost,45248,45363,18286.7,0,Rafael Souza,OPP-00519
+Team A,Asia-Pacific,CloudWorks,Cloud Computing,Webinar,Agri Meet,22,Proposal Sent,45458,,44285.97,0,Alex Patel,OPP-00520
+Team E,Middle-East,GreenSystems,Renewable Energy,Referral,Referral Program,42,Prospecting,45634,,108178.42,0,Sara Ibrahim,OPP-00521
+Team E,Middle-East,GreenTech,Renewable Energy,Inbound,Healthcare Expo,27,Prospecting,45636,,84000.99,0,Rafael Souza,OPP-00522
+Team C,Latin-America,AgriHarvest,Agriculture,Referral,Spring Launch,58,Proposal Sent,45400,,61421.54,0,Lina Fernandez,OPP-00523
+Team D,Asia-Pacific,AgriCorp,Agriculture,Referral,Spring Launch,94,Qualified,45191,,48378.94,0,Chen Wei,OPP-00524
+Team C,Middle-East,GreenTech,Renewable Energy,Partnership,EducationForum,51,Negotiation,45768,,85834.83,0,Samir Gupta,OPP-00525
+Team A,Latin-America,GreenSystems,Renewable Energy,Event,Education Forum,94,Qualified,45848,,29095.41,0,Priya Singh,OPP-00526
+Team B,North-America,MediCore,Healthcare,Webinar,HealthcareExpo,30,Qualified,45794,,27912.55,0,Rohit Menon,OPP-00527
+Team C,Latin-America,CloudWorks,Cloud Computing,Inbound,Green Tech Day,55,Negotiation,45805,,35603.3,0,Samir Gupta,OPP-00528
+Team D,North-America,MediCore,Healthcare,Email Campaign,Healthcare Expo,83,Qualified,45685,,46306.655,0,Chen Wei,OPP-00529
+Team D,Middle-East,CloudWorks,Cloud Computing,Social Media,SpringLaunch,37,Negotiation,45310,,86329.71,0,Emma Johnson,OPP-00530
+Team D,Latin-America,AgriCorp,Agriculture,Event,Spring Launch,24,Prospecting,45275,,46306.655,0,Chen Wei,OPP-00531
+Team C,Middle-East,EduNext,Education,Inbound,Spring Launch,77,Qualified,45850,,106711.85,0,Samir Gupta,OPP-00532
+Team D,Asia-Pacific,HealthPlus,Healthcare,Outbound,FinTech webinar,85,Prospecting,45680,,68936.54,0,Chen Wei,OPP-00533
+Team C,North-America,CloudWorks,Cloud Computing,Webinar,EducationForum,80,Prospecting,45695,,73834.84,0,Lina Fernandez,OPP-00534
+Team C,Middle-East,FinEdge,Financial Services,Referral,Healthcare Expo,67,Proposal Sent,45218,,52020.37,0,Lina Fernandez,OPP-00535
+Team D,Latin-America,AgriHarvest,Agriculture,Webinar,Education Forum,49,Proposal Sent,45636,,39695.63,0,Chen Wei,OPP-00536
+Team E,North-America,SafeBank,Financial Services,Email Campaign,Spring Launch,75,Qualified,45220,,112220.71,0,Sara Ibrahim,OPP-00537
+Team C,Asia-Pacific,AgriCorp,Agriculture,Social Media,Agri meet,90,Prospecting,45535,,124878.66,0,Lina Fernandez,OPP-00538
+Team A,North-America,GreenSystems,Renewable Energy,Referral,EducationForum,96,Prospecting,45340,,61988.91,0,Alex Patel,OPP-00539
+Team A,North-America,GreenTech,Renewable Energy,Webinar,Agri Meet,88,Proposal Sent,45776,,46306.655,0,Alex Patel,OPP-00540
+Team E,Europe,AgriHarvest,Agriculture,Referral,Summer Outreach,33,Prospecting,45504,,54004.17,0,Rafael Souza,OPP-00541
+Team E,Asia-Pacific,SafeBank,Financial Services,Inbound,Education Forum,73,Proposal Sent,45357,,26784.53,0,Rafael Souza,OPP-00542
+Team C,Asia-Pacific,MediCore,Healthcare,Webinar,Tech Summit,24,Proposal Sent,45460,,53475.82,0,Samir Gupta,OPP-00543
+Team B,Asia-Pacific,HealthPlus,Healthcare,Inbound,Spring Launch,61,Proposal Sent,45569,,39820.66,0,Rohit Menon,OPP-00544
+Team E,Europe,GreenTech,Renewable Energy,Email Campaign,Referral Program,22,Qualified,45303,,15708.25,0,Rafael Souza,OPP-00545
+Team D,Middle-East,GreenSystems,Renewable Energy,Referral,Healthcare Expo,73,Negotiation,45867,,93251.72,0,Chen Wei,OPP-00546
+Team E,North-America,AgriCorp,Agriculture,Inbound,Spring Launch,49,Closed Won,45246,45336,14673.44,12279.99,Rafael Souza,OPP-00547
+Team C,Europe,GreenTech,Renewable Energy,Email Campaign,Summer Outreach,35,Closed Won,45194,45257,47972.8,54240.89,Samir Gupta,OPP-00548
+Team B,Asia-Pacific,CloudWorks,Cloud Computing,Event,Agri Meet,55,Prospecting,45216,,32541.34,0,Meera Shah,OPP-00549
+Team A,North-America,GreenTech,Renewable Energy,Event,Referral Program,71,Prospecting,45633,,14952.26,0,Alex Patel,OPP-00550
+Team B,Asia-Pacific,CloudWorks,Cloud Computing,Referral,green tech day,49,Prospecting,45421,,18495.69,0,Rohit Menon,OPP-00551
+Team E,North-America,BioHealth,Biotechnology,Webinar,Education Forum,58,Qualified,45716,,97212.92,0,Sara Ibrahim,OPP-00552
+Team E,Middle-East,MarketIQ,Market Intelligence,Referral,Fintech webinar,51,Closed Lost,45390,45407,152028.61,0,Rafael Souza,OPP-00553
+Team A,North-America,AgriCorp,Agriculture,Outbound,FinTech Webinar,39,Prospecting,45474,,86429.65,0,Alex Patel,OPP-00554
+Team E,Asia-Pacific,AgriCorp,Agriculture,Webinar,Healthcare Expo,23,Prospecting,45773,,65310.08,0,Rafael Souza,OPP-00555
+Team B,Asia-Pacific,EduNext,Education,Outbound,Education Forum,54,Prospecting,45864,,41233.43,0,Meera Shah,OPP-00556
+Team E,Europe,GreenSystems,Renewable Energy,Inbound,FinTechWebinar,90,Prospecting,45423,,77838.15,0,Sara Ibrahim,OPP-00557
+Team D,North-America,FinPeak,FinTech,Webinar,FinTechWebinar,62,Prospecting,45240,,51046,0,Chen Wei,OPP-00558
+Team B,Middle-East,GreenTech,Renewable Energy,Outbound,Spring Launch,91,Proposal Sent,45482,,60214.38,0,Rohit Menon,OPP-00559
+Team D,Asia-Pacific,FinEdge,Financial Services,Social Media,Referral Program,97,Proposal Sent,45520,,59106.19,0,Chen Wei,OPP-00560
+Team C,Middle-East,CloudWorks,Cloud Computing,Unknown,Green tech day,63,Negotiation,45813,,59766.01,0,Samir Gupta,OPP-00561
+Team E,North-America,Urbanmobility,Transportation,Referral,FinTech Webinar,84,Qualified,45335,,27308.7,0,Sara Ibrahim,OPP-00562
+Team E,Europe,CloudWorks,Cloud Computing,Inbound,Referral Program,76,Prospecting,45418,,54377.21,0,Rafael Souza,OPP-00563
+Team A,Europe,FinPeak,FinTech,Referral,FinTech Webinar,56,Negotiation,45797,,67650.93,0,Alex Patel,OPP-00564
+Team C,North-America,MarketIQ,Market Intelligence,Inbound,Unknown,83,Prospecting,45553,,149496.59,0,Samir Gupta,OPP-00565
+Team D,Middle-East,HealthPlus,Healthcare,Unknown,Spring Launch,39,Negotiation,45268,,50108.41,0,Emma Johnson,OPP-00566
+Team D,North-America,CloudWorks,Cloud Computing,Email Campaign,Spring Launch,27,Negotiation,45672,,26049.91,0,Emma Johnson,OPP-00567
+Team D,Asia-Pacific,Urbanmobility,Transportation,Event,Summer Outreach,52,Proposal Sent,45229,,176190.31,0,Chen Wei,OPP-00568
+Team B,Asia-Pacific,FinEdge,Financial Services,Webinar,Spring Launch,72,Qualified,45724,,40240,0,Rohit Menon,OPP-00569
+Team A,Asia-Pacific,BioHealth,Biotechnology,Event,Agri Meet,58,Qualified,45466,,78294.01,0,Alex Patel,OPP-00570
+Team B,Latin-America,HealthPlus,Healthcare,Partnership,Spring Launch,89,Qualified,45442,,69558.79,0,Rohit Menon,OPP-00571
+Team E,Latin-America,HealthPlus,Healthcare,Outbound,Education Forum,95,Proposal Sent,45517,,64197.04,0,Sara Ibrahim,OPP-00572
+Team A,North-America,MarketIQ,Market Intelligence,Email Campaign,Spring Launch,72,Proposal Sent,45474,,32380.61,0,Priya Singh,OPP-00573
+Team C,Latin-America,GreenTech,Renewable Energy,Outbound,Referral Program,73,Closed Lost,45386,45438,73911.18,0,Samir Gupta,OPP-00574
+Team C,North-America,TechNova,Technology,Referral,Summer Outreach,71,Proposal Sent,45568,,17131.23,0,Samir Gupta,OPP-00575
+Team A,North-America,MarketIQ,Market Intelligence,Email Campaign,Spring Launch,44,Qualified,45456,,64409.17,0,Priya Singh,OPP-00576
+Team C,Latin-America,GreenTech,Renewable Energy,Email Campaign,Education Forum,71,Prospecting,45558,,61961.13,0,Samir Gupta,OPP-00577
+Team D,Europe,FinPeak,FinTech,Partnership,Education Forum,82,Negotiation,45786,,46306.655,0,Emma Johnson,OPP-00578
+Team C,Middle-East,SafeBank,Financial Services,Social Media,spring launch,93,Qualified,45725,,63297.49,0,Samir Gupta,OPP-00579
+Team A,North-America,AgriCorp,Agriculture,Referral,Tech Summit,96,Proposal Sent,45770,,51494.86,0,Alex Patel,OPP-00580
+Team A,Europe,GreenTech,Renewable Energy,Referral,Spring Launch,32,Negotiation,45517,,29291.12,0,Priya Singh,OPP-00581
+Team C,Europe,AgriCorp,Agriculture,Event,Tech Summit,37,Qualified,45342,,23613.61,0,Samir Gupta,OPP-00582
+Team D,North-America,FinPeak,FinTech,Outbound,Unknown,88,Prospecting,45498,,42870.48,0,Emma Johnson,OPP-00583
+Team D,Europe,BioHealth,Biotechnology,Unknown,Healthcare Expo,91,Closed Lost,45860,45869,46306.655,0,Chen Wei,OPP-00584
+Team A,North-America,HealthPlus,Healthcare,Email Campaign,HealthcareExpo,61,Prospecting,45766,,46306.655,0,Alex Patel,OPP-00585
+Team A,Asia-Pacific,AgriHarvest,Agriculture,Partnership,Agri Meet,31,Closed Won,45212,45380,18082.84,16523.9,Alex Patel,OPP-00586
+Team D,Latin-America,AgriHarvest,Agriculture,Inbound,Spring Launch,97,Prospecting,45426,,60776.93,0,Unknown,OPP-00587
+Team E,Latin-America,FinPeak,FinTech,Referral,Spring Launch,42,Closed Lost,45192,45295,49537.87,0,Sara Ibrahim,OPP-00588
+Team A,North-America,Urbanmobility,Transportation,Outbound,referral program,60,Qualified,45424,,46306.655,0,Priya Singh,OPP-00589
+Team A,Asia-Pacific,BioHealth,Biotechnology,Inbound,FinTech Webinar,54,Negotiation,45492,,53784.16,0,Alex Patel,OPP-00590
+Team A,Europe,BioHealth,Biotechnology,Event,Summer outreach,53,Prospecting,45457,,16691.2,0,Alex Patel,OPP-00591
+Team A,Europe,MarketIQ,Market Intelligence,Outbound,Tech Summit,23,Prospecting,45651,,164409.32,0,Priya Singh,OPP-00592
+Team D,Middle-East,SafeBank,Financial Services,Inbound,Agri Meet,53,Proposal Sent,45290,,55607.45,0,Chen Wei,OPP-00593
+Team D,North-America,HealthPlus,Healthcare,Inbound,Education Forum,78,Qualified,45612,,45258.9,0,Chen Wei,OPP-00594
+Team B,Middle-East,CloudWorks,Cloud Computing,Outbound,Healthcare Expo,48,Qualified,45409,,67536.72,0,Meera Shah,OPP-00595
+Team C,North-America,CloudWorks,Cloud Computing,Event,Summer Outreach,34,Closed Won,45567,45614,24757.5,23774.79,Samir Gupta,OPP-00596
+Team E,North-America,TechNova,Technology,Social Media,Healthcare Expo,91,Prospecting,45260,,31178.38,0,Rafael Souza,OPP-00597
+Team E,Europe,FinEdge,Financial Services,Outbound,Green Tech Day,78,Prospecting,45180,,51862.41,0,Sara Ibrahim,OPP-00598
+Team D,North-America,GreenTech,Renewable Energy,Inbound,Unknown,40,Closed Won,45251,45356,52600.43,61978.17,Emma Johnson,OPP-00599
+Team A,Asia-Pacific,EduNext,Education,Partnership,Referral Program,22,Prospecting,45179,,32975.62,0,Alex Patel,OPP-00600
+Team C,Middle-East,AgriHarvest,Agriculture,Event,Spring Launch,66,Prospecting,45832,,19023.2,0,Lina Fernandez,OPP-00601
+Team D,Middle-East,GreenTech,Renewable Energy,Unknown,AgriMeet,88,Closed Won,45867,45869,51013.41,49146.16,Chen Wei,OPP-00602
+Team B,Europe,TechNova,Technology,Referral,EducationForum,99,Prospecting,45435,,17203.9,0,Meera Shah,OPP-00603
+Team C,Latin-America,EduNext,Education,Social Media,Green Tech Day,84,Qualified,45733,,31453.63,0,Lina Fernandez,OPP-00604
+Team C,North-America,HealthPlus,Healthcare,Event,Green Tech Day,99,Prospecting,45223,,18020.46,0,Samir Gupta,OPP-00605
+Team E,Asia-Pacific,GreenTech,Renewable Energy,Partnership,Healthcare Expo,45,Prospecting,45752,,22287.39,0,Rafael Souza,OPP-00606
+Team E,Europe,MediCore,Healthcare,Event,Healthcare Expo,68,Closed Lost,45868,45869,30310.52,0,Rafael Souza,OPP-00607
+Team B,Latin-America,CloudWorks,Cloud Computing,Inbound,Unknown,26,Prospecting,45391,,54180.33,0,Meera Shah,OPP-00608
+Team C,Middle-East,GreenTech,Renewable Energy,Email Campaign,Unknown,38,Prospecting,45360,,16870.73,0,Samir Gupta,OPP-00609
+Team C,Middle-East,AgriHarvest,Agriculture,Outbound,Agri Meet,22,Prospecting,45600,,55930.98,0,Samir Gupta,OPP-00610
+Team B,Asia-Pacific,HealthPlus,Healthcare,Email Campaign,Unknown,61,Negotiation,45362,,37968.5,0,Rohit Menon,OPP-00611
+Team E,North-America,AgriCorp,Agriculture,Partnership,Unknown,21,Negotiation,45407,,11384.91,0,Rafael Souza,OPP-00612
+Team E,Latin-America,CloudWorks,Cloud Computing,Social Media,Agri Meet,39,Proposal Sent,45545,,109421.63,0,Rafael Souza,OPP-00613
+Team A,Latin-America,CloudWorks,Cloud Computing,Email Campaign,Fintech webinar,37,Proposal Sent,45802,,49991.35,0,Priya Singh,OPP-00614
+Team C,North-America,MarketIQ,Market Intelligence,Referral,Referral Program,66,Closed Lost,45753,45869,27768.03,0,Lina Fernandez,OPP-00615
+Team D,Middle-East,MarketIQ,Market Intelligence,Referral,Spring launch,53,Negotiation,45286,,44885.3,0,Emma Johnson,OPP-00616
+Team E,Europe,CloudWorks,Cloud Computing,Email Campaign,Spring launch,31,Prospecting,45749,,37692.82,0,Sara Ibrahim,OPP-00617
+Team A,Asia-Pacific,CloudWorks,Cloud Computing,Outbound,Healthcare Expo,23,Prospecting,45186,,28435.7,0,Priya Singh,OPP-00618
+Team C,Europe,FinEdge,Financial Services,Email Campaign,Spring Launch,35,Closed Lost,45412,45528,59215.31,0,Samir Gupta,OPP-00619
+Team B,Europe,MarketIQ,Market Intelligence,Inbound,Agri Meet,44,Negotiation,45500,,37393.17,0,Meera Shah,OPP-00620
+Team E,Europe,EduNext,Education,Referral,Healthcare Expo,46,Prospecting,45806,,59243.96,0,Sara Ibrahim,OPP-00621
+Team C,Middle-East,GreenTech,Renewable Energy,Inbound,Healthcare Expo,71,Closed Won,45551,45604,19399.32,22872.06,Unknown,OPP-00622
+Team B,Middle-East,MediCore,Healthcare,Social Media,Green Tech Day,52,Proposal Sent,45206,,123981.51,0,Meera Shah,OPP-00623
+Team A,North-America,AgriHarvest,Agriculture,Outbound,Summer Outreach,48,Negotiation,45628,,46306.655,0,Priya Singh,OPP-00624
+Team A,North-America,HealthPlus,Healthcare,Social Media,Agri Meet,95,Qualified,45222,,27273.69,0,Priya Singh,OPP-00625
+Team E,Latin-America,HealthPlus,Healthcare,Event,Green Tech Day,37,Qualified,45470,,124470.4,0,Rafael Souza,OPP-00626
+Team C,North-America,HealthPlus,Healthcare,Partnership,Referral program,86,Qualified,45649,,9572.88,0,Lina Fernandez,OPP-00627
+Team A,North-America,EduNext,Education,Partnership,green tech day,42,Negotiation,45862,,46534.26,0,Alex Patel,OPP-00628
+Team B,Asia-Pacific,MarketIQ,Market Intelligence,Webinar,Green Tech Day,41,Prospecting,45750,,49527.5,0,Rohit Menon,OPP-00629
+Team C,Middle-East,HealthPlus,Healthcare,Email Campaign,Spring Launch,76,Qualified,45498,,46306.655,0,Samir Gupta,OPP-00630
+Team D,Middle-East,Urbanmobility,Transportation,Partnership,Summer Outreach,49,Proposal Sent,45698,,61684.38,0,Chen Wei,OPP-00631
+Team D,Asia-Pacific,Urbanmobility,Transportation,Outbound,Healthcare Expo,84,Qualified,45178,,30003.04,0,Chen Wei,OPP-00632
+Team A,Asia-Pacific,SafeBank,Financial Services,Unknown,Unknown,85,Closed Won,45218,45230,47427.25,44164.16,Priya Singh,OPP-00633
+Team D,North-America,GreenTech,Renewable Energy,Referral,Fintech webinar,37,Qualified,45708,,15276.11,0,Emma Johnson,OPP-00634
+Team B,Europe,AgriCorp,Agriculture,Webinar,green tech day,89,Negotiation,45248,,47263.77,0,Rohit Menon,OPP-00635
+Team C,North-America,MediCore,Healthcare,Social Media,FinTechWebinar,41,Closed Lost,45766,45787,16989.97,0,Samir Gupta,OPP-00636
+Team B,Europe,EduNext,Unknown,Event,Spring Launch,83,Prospecting,45821,,53037.56,0,Meera Shah,OPP-00637
+Team D,Asia-Pacific,AgriCorp,Agriculture,Webinar,summer outreach,32,Closed Lost,45416,45507,44860.93,0,Emma Johnson,OPP-00638
+Team B,North-America,HealthPlus,Healthcare,Webinar,Education Forum,49,Proposal Sent,45372,,45102.96,0,Rohit Menon,OPP-00639
+Team B,North-America,CloudWorks,Cloud Computing,Event,Summer outreach,26,Qualified,45207,,68280.95,0,Meera Shah,OPP-00640
+Team D,Latin-America,GreenSystems,Renewable Energy,Unknown,Education Forum,61,Qualified,45625,,60286.54,0,Unknown,OPP-00641
+Team E,Asia-Pacific,SafeBank,Financial Services,Partnership,healthcare expo,85,Negotiation,45706,,22115.56,0,Sara Ibrahim,OPP-00642
+Team B,Latin-America,FinEdge,Financial Services,Referral,FinTech Webinar,54,Negotiation,45584,,145027.7,0,Rohit Menon,OPP-00643
+Team B,Latin-America,CloudWorks,Cloud Computing,Email Campaign,FinTechWebinar,74,Qualified,45458,,20250.15,0,Rohit Menon,OPP-00644
+Team A,Europe,AgriCorp,Agriculture,Outbound,Summer outreach,61,Proposal Sent,45564,,61910.64,0,Priya Singh,OPP-00645
+Team A,Europe,AgriCorp,Agriculture,Outbound,Tech Summit,83,Closed Won,45327,45489,15106.53,12772.86,Priya Singh,OPP-00646
+Team D,Middle-East,AgriCorp,Agriculture,Social Media,education forum,43,Qualified,45631,,35182.58,0,Emma Johnson,OPP-00647
+Team E,Middle-East,TechNova,Technology,Email Campaign,SpringLaunch,51,Prospecting,45400,,18491.2,0,Sara Ibrahim,OPP-00648
+Team A,Asia-Pacific,TechNova,Technology,Social Media,Spring Launch,28,Prospecting,45759,,19031.67,0,Priya Singh,OPP-00649
+Team B,Europe,MarketIQ,Market Intelligence,Unknown,Tech Summit,20,Proposal Sent,45370,,34625.27,0,Meera Shah,OPP-00650
+Team E,Latin-America,AgriCorp,Agriculture,Webinar,Summer Outreach,74,Proposal Sent,45357,,55676.4,0,Rafael Souza,OPP-00651
+Team D,Latin-America,FinEdge,Financial Services,Partnership,Referral Program,56,Prospecting,45288,,13178.16,0,Chen Wei,OPP-00652
+Team B,Middle-East,MarketIQ,Market Intelligence,Unknown,Tech Summit,37,Prospecting,45522,,59747.89,0,Unknown,OPP-00653
+Team A,Europe,MediCore,Healthcare,Inbound,Education Forum,89,Qualified,45582,,30174.23,0,Priya Singh,OPP-00654
+Team E,Latin-America,MarketIQ,Market Intelligence,Event,Green Tech Day,39,Proposal Sent,45752,,56605.4,0,Sara Ibrahim,OPP-00655
+Team E,Asia-Pacific,SafeBank,Financial Services,Event,Education Forum,92,Qualified,45228,,25793.6,0,Sara Ibrahim,OPP-00656
+Team C,Middle-East,MarketIQ,Market Intelligence,Unknown,Fintech webinar,39,Proposal Sent,45594,,14632.13,0,Lina Fernandez,OPP-00657
+Team E,Asia-Pacific,CloudWorks,Cloud Computing,Outbound,Spring Launch,85,Proposal Sent,45338,,65534.25,0,Rafael Souza,OPP-00658
+Team E,North-America,HealthPlus,Healthcare,Email Campaign,SpringLaunch,35,Prospecting,45516,,48542.99,0,Sara Ibrahim,OPP-00659
+Team E,North-America,FinEdge,Financial Services,Referral,FinTech Webinar,22,Qualified,45440,,46306.655,0,Sara Ibrahim,OPP-00660
+Team E,Latin-America,GreenTech,Renewable Energy,Partnership,Unknown,67,Closed Won,45261,45322,71157.36,65051.76,Rafael Souza,OPP-00661
+Team E,Asia-Pacific,FinEdge,Financial Services,Outbound,TechSummit,29,Proposal Sent,45868,,65772.08,0,Sara Ibrahim,OPP-00662
+Team C,North-America,TechNova,Technology,Outbound,Summer outreach,39,Negotiation,45666,,33338.99,0,Samir Gupta,OPP-00663
+Team A,Europe,TechNova,Technology,Partnership,Green Tech Day,85,Prospecting,45844,,63674.1,0,Alex Patel,OPP-00664
+Team C,Middle-East,AgriHarvest,Agriculture,Event,Green Tech Day,28,Negotiation,45232,,126059.48,0,Samir Gupta,OPP-00665
+Team A,Asia-Pacific,HealthPlus,Healthcare,Unknown,Referral Program,72,Prospecting,45235,,69809.03,0,Alex Patel,OPP-00666
+Team B,Latin-America,AgriHarvest,Agriculture,Webinar,Healthcare Expo,44,Qualified,45254,,48737.75,0,Rohit Menon,OPP-00667
+Team B,North-America,AgriHarvest,Agriculture,Social Media,Spring Launch,70,Qualified,45550,,48796.59,0,Rohit Menon,OPP-00668
+Team E,Asia-Pacific,GreenSystems,Renewable Energy,Partnership,Education Forum,82,Prospecting,45733,,97811.06,0,Sara Ibrahim,OPP-00669
+Team A,Asia-Pacific,MarketIQ,Market Intelligence,Webinar,fintech webinar,84,Prospecting,45684,,11408.1,0,Priya Singh,OPP-00670
+Team B,North-America,GreenSystems,Renewable Energy,Social Media,Tech Summit,61,Qualified,45268,,72028.33,0,Meera Shah,OPP-00671
+Team B,Europe,HealthPlus,Healthcare,Referral,Healthcare Expo,47,Closed Won,45512,45579,26863.08,29032.3,Meera Shah,OPP-00672
+Team E,Europe,CloudWorks,Cloud Computing,Email Campaign,spring launch,91,Prospecting,45204,,14409.81,0,Sara Ibrahim,OPP-00673
+Team E,North-America,HealthPlus,Healthcare,Outbound,SummerOutreach,53,Qualified,45203,,56244.83,0,Rafael Souza,OPP-00674
+Team B,Latin-America,CloudWorks,Cloud Computing,Webinar,Referral Program,92,Prospecting,45462,,60640.36,0,Rohit Menon,OPP-00675
+Team D,Middle-East,EduNext,Education,Inbound,Spring Launch,97,Negotiation,45580,,82304.02,0,Emma Johnson,OPP-00676
+Team C,Latin-America,SafeBank,Financial Services,Outbound,Spring Launch,77,Closed Won,45539,45606,20950.3,19960.93,Samir Gupta,OPP-00677
+Team B,Latin-America,GreenSystems,Renewable Energy,Referral,Agri Meet,67,Prospecting,45747,,57591.5,0,Rohit Menon,OPP-00678
+Team D,Middle-East,GreenSystems,Renewable Energy,Outbound,FinTech Webinar,66,Proposal Sent,45455,,25986.03,0,Emma Johnson,OPP-00679
+Team A,Asia-Pacific,FinEdge,Financial Services,Webinar,Agri Meet,94,Closed Lost,45843,45869,51765.74,0,Alex Patel,OPP-00680
+Team B,North-America,Urbanmobility,Transportation,Webinar,Healthcare expo,27,Proposal Sent,45325,,33617.46,0,Rohit Menon,OPP-00681
+Team E,Europe,Urbanmobility,Transportation,Partnership,Referral Program,53,Closed Lost,45552,45651,123048.53,0,Sara Ibrahim,OPP-00682
+Team D,Europe,Urbanmobility,Transportation,Webinar,Summer Outreach,36,Qualified,45550,,104810.78,0,Chen Wei,OPP-00683
+Team B,Middle-East,MarketIQ,Market Intelligence,Email Campaign,Summer Outreach,35,Closed Lost,45792,45869,25064.88,0,Rohit Menon,OPP-00684
+Team C,Asia-Pacific,GreenTech,Renewable Energy,Social Media,Spring Launch,50,Qualified,45609,,49586.03,0,Samir Gupta,OPP-00685
+Team C,North-America,CloudWorks,Cloud Computing,Email Campaign,agri meet,95,Closed Won,45616,45638,38047.27,35163.44,Samir Gupta,OPP-00686
+Team D,Middle-East,SafeBank,Financial Services,Email Campaign,Healthcare Expo,57,Proposal Sent,45810,,100640.86,0,Emma Johnson,OPP-00687
+Team A,Middle-East,AgriHarvest,Agriculture,Event,Tech Summit,36,Qualified,45319,,26816.11,0,Alex Patel,OPP-00688
+Team B,Middle-East,EduNext,Education,Referral,green tech day,49,Closed Lost,45342,45482,33090.5,0,Rohit Menon,OPP-00689
+Team B,North-America,TechNova,Technology,Event,Healthcare Expo,71,Qualified,45313,,42616.53,0,Meera Shah,OPP-00690
+Team D,Latin-America,EduNext,Education,Outbound,Healthcare expo,53,Proposal Sent,45751,,121281.83,0,Emma Johnson,OPP-00691
+Team E,Latin-America,AgriHarvest,Agriculture,Event,Spring Launch,71,Closed Lost,45247,45390,45513.33,0,Unknown,OPP-00692
+Team C,Europe,EduNext,Education,Event,Healthcare expo,48,Prospecting,45275,,58512.02,0,Lina Fernandez,OPP-00693
+Team B,Middle-East,GreenSystems,Renewable Energy,Partnership,FinTech Webinar,24,Closed Lost,45435,45468,56482.5,0,Meera Shah,OPP-00694
+Team D,North-America,EduNext,Education,Event,Summer Outreach,45,Proposal Sent,45506,,54098.99,0,Chen Wei,OPP-00695
+Team A,Asia-Pacific,FinPeak,FinTech,Event,Spring Launch,59,Qualified,45562,,52035.72,0,Priya Singh,OPP-00696
+Team B,North-America,GreenTech,Renewable Energy,Partnership,Referral Program,49,Qualified,45435,,66733.89,0,Rohit Menon,OPP-00697
+Team D,Middle-East,Urbanmobility,Transportation,Inbound,Summer Outreach,55,Proposal Sent,45359,,16761.1,0,Chen Wei,OPP-00698
+Team E,North-America,MediCore,Healthcare,Event,FinTech Webinar,21,Negotiation,45726,,50978.33,0,Sara Ibrahim,OPP-00699
+Team A,Latin-America,CloudWorks,Cloud Computing,Social Media,Referral Program,61,Prospecting,45536,,32173.1,0,Alex Patel,OPP-00700
+Team A,Latin-America,SafeBank,Financial Services,Email Campaign,Unknown,66,Prospecting,45835,,30480.88,0,Alex Patel,OPP-00701
+Team A,Asia-Pacific,CloudWorks,Cloud Computing,Referral,Tech Summit,89,Qualified,45644,,60651.22,0,Priya Singh,OPP-00702
+Team D,North-America,CloudWorks,Cloud Computing,Inbound,Agri Meet,49,Closed Lost,45784,45869,20862.86,0,Emma Johnson,OPP-00703
+Team D,Asia-Pacific,CloudWorks,Cloud Computing,Event,Tech Summit,41,Qualified,45817,,53888.37,0,Chen Wei,OPP-00704
+Team A,Europe,GreenSystems,Renewable Energy,Inbound,Referral Program,42,Qualified,45347,,31575.9,0,Alex Patel,OPP-00705
+Team E,Asia-Pacific,CloudWorks,Cloud Computing,Email Campaign,SummerOutreach,52,Prospecting,45677,,56531.29,0,Sara Ibrahim,OPP-00706
+Team D,North-America,SafeBank,Financial Services,Social Media,GreenTechDay,71,Closed Won,45453,45511,87839.59,100311.93,Chen Wei,OPP-00707
+Team A,Europe,GreenSystems,Renewable Energy,Event,FinTech Webinar,35,Qualified,45517,,72536.52,0,Priya Singh,OPP-00708
+Team A,Middle-East,FinEdge,Financial Services,Event,Green Tech Day,27,Proposal Sent,45255,,29901.28,0,Alex Patel,OPP-00709
+Team D,Europe,CloudWorks,Cloud Computing,Email Campaign,Healthcare Expo,66,Prospecting,45283,,50339.04,0,Emma Johnson,OPP-00710
+Team C,Europe,AgriHarvest,Agriculture,Social Media,Education forum,31,Qualified,45264,,9430.5,0,Samir Gupta,OPP-00711
+Team B,Latin-America,FinPeak,FinTech,Webinar,Green Tech Day,69,Proposal Sent,45463,,108434.85,0,Rohit Menon,OPP-00712
+Team A,Middle-East,EduNext,Education,Referral,Spring Launch,61,Proposal Sent,45739,,144035.79,0,Alex Patel,OPP-00713
+Team C,Asia-Pacific,SafeBank,Financial Services,Unknown,Referral Program,79,Closed Won,45331,45402,42703.15,49063.06,Samir Gupta,OPP-00714
+Team C,Asia-Pacific,GreenTech,Renewable Energy,Referral,Summer Outreach,36,Prospecting,45730,,30499.03,0,Samir Gupta,OPP-00715
+Team C,Latin-America,AgriCorp,Agriculture,Event,Agri Meet,40,Closed Lost,45809,45830,30317.59,0,Samir Gupta,OPP-00716
+Team E,Asia-Pacific,GreenTech,Renewable Energy,Partnership,referral program,21,Prospecting,45400,,20738.06,0,Sara Ibrahim,OPP-00717
+Team C,Latin-America,SafeBank,Financial Services,Referral,Education Forum,31,Qualified,45423,,67341.73,0,Lina Fernandez,OPP-00718
+Team B,Asia-Pacific,MediCore,Healthcare,Email Campaign,FinTech Webinar,61,Negotiation,45808,,85512.99,0,Rohit Menon,OPP-00719
+Team A,Asia-Pacific,HealthPlus,Healthcare,Webinar,Referral Program,61,Qualified,45275,,41534.64,0,Alex Patel,OPP-00720
+Team C,Europe,MediCore,Healthcare,Inbound,FinTech Webinar,52,Proposal Sent,45497,,76905.3,0,Samir Gupta,OPP-00721
+Team C,North-America,TechNova,Technology,Outbound,Spring launch,27,Qualified,45657,,29782.71,0,Samir Gupta,OPP-00722
+Team A,Middle-East,FinEdge,Financial Services,Outbound,Education forum,61,Closed Won,45781,45788,20727.42,18053.62,Alex Patel,OPP-00723
+Team E,Latin-America,FinPeak,FinTech,Outbound,Healthcare Expo,61,Proposal Sent,45256,,80705.89,0,Rafael Souza,OPP-00724
+Team B,Middle-East,CloudWorks,Cloud Computing,Outbound,Tech Summit,92,Prospecting,45496,,47940.28,0,Meera Shah,OPP-00725
+Team D,Middle-East,BioHealth,Biotechnology,Event,Education forum,93,Qualified,45258,,19341.4,0,Chen Wei,OPP-00726
+Team B,Asia-Pacific,SafeBank,Financial Services,Outbound,Unknown,62,Qualified,45387,,34764.32,0,Meera Shah,OPP-00727
+Team B,Middle-East,HealthPlus,Healthcare,Social Media,GreenTechDay,81,Negotiation,45708,,61469.69,0,Rohit Menon,OPP-00728
+Team B,North-America,Urbanmobility,Transportation,Referral,SpringLaunch,50,Closed Won,45502,45534,101452.54,101378.11,Rohit Menon,OPP-00729
+Team A,North-America,TechNova,Technology,Email Campaign,Agri Meet,78,Prospecting,45491,,127436.13,0,Alex Patel,OPP-00730
+Team C,North-America,CloudWorks,Cloud Computing,Webinar,Healthcare expo,78,Qualified,45623,,46306.655,0,Lina Fernandez,OPP-00731
+Team D,Middle-East,BioHealth,Biotechnology,Inbound,FinTech Webinar,48,Qualified,45650,,78716.1,0,Chen Wei,OPP-00732
+Team E,Latin-America,GreenTech,Renewable Energy,Email Campaign,Healthcare Expo,69,Qualified,45698,,73950.46,0,Sara Ibrahim,OPP-00733
+Team D,Middle-East,FinPeak,FinTech,Email Campaign,Green tech day,72,Proposal Sent,45700,,31044.29,0,Emma Johnson,OPP-00734
+Team E,Asia-Pacific,HealthPlus,Healthcare,Inbound,Spring Launch,22,Prospecting,45505,,34305.69,0,Rafael Souza,OPP-00735
+Team D,Latin-America,MediCore,Healthcare,Partnership,Green Tech Day,22,Qualified,45403,,50218.61,0,Emma Johnson,OPP-00736
+Team D,North-America,GreenTech,Renewable Energy,Referral,education forum,68,Prospecting,45827,,132129.49,0,Emma Johnson,OPP-00737
+Team D,Europe,TechNova,Technology,Webinar,Referral Program,23,Prospecting,45374,,16627.37,0,Chen Wei,OPP-00738
+Team B,North-America,MarketIQ,Market Intelligence,Referral,Summer Outreach,66,Prospecting,45409,,74480.26,0,Rohit Menon,OPP-00739
+Team A,Asia-Pacific,TechNova,Technology,Email Campaign,Tech Summit,90,Qualified,45607,,21389.15,0,Alex Patel,OPP-00740
+Team B,North-America,HealthPlus,Healthcare,Email Campaign,Referral Program,81,Prospecting,45700,,28097.69,0,Meera Shah,OPP-00741
+Team B,North-America,FinPeak,FinTech,Partnership,Agri Meet,87,Prospecting,45868,,99674.87,0,Rohit Menon,OPP-00742
+Team B,Europe,MarketIQ,Market Intelligence,Outbound,HealthcareExpo,46,Proposal Sent,45295,,62644.14,0,Rohit Menon,OPP-00743
+Team A,Asia-Pacific,FinEdge,Financial Services,Webinar,Healthcare Expo,49,Qualified,45318,,8640.94,0,Alex Patel,OPP-00744
+Team D,Europe,AgriCorp,Agriculture,Partnership,tech summit,50,Qualified,45405,,25676.52,0,Emma Johnson,OPP-00745
+Team B,Latin-America,BioHealth,Biotechnology,Referral,Agri Meet,37,Prospecting,45425,,113130.88,0,Meera Shah,OPP-00746
+Team D,Asia-Pacific,BioHealth,Unknown,Social Media,Healthcare Expo,67,Proposal Sent,45617,,115403.83,0,Chen Wei,OPP-00747
+Team B,Latin-America,Urbanmobility,Transportation,Email Campaign,Healthcare Expo,34,Prospecting,45695,,133334.76,0,Rohit Menon,OPP-00748
+Team E,North-America,SafeBank,Financial Services,Inbound,Spring Launch,49,Prospecting,45687,,51556.65,0,Rafael Souza,OPP-00749
+Team A,Asia-Pacific,MediCore,Healthcare,Outbound,Tech Summit,85,Closed Lost,45504,45612,46306.655,0,Alex Patel,OPP-00750
+Team A,Latin-America,EduNext,Education,Inbound,Summer Outreach,23,Prospecting,45344,,130740.23,0,Alex Patel,OPP-00751
+Team C,Middle-East,AgriCorp,Agriculture,Event,Spring Launch,64,Qualified,45726,,10357.06,0,Lina Fernandez,OPP-00752
+Team C,North-America,Urbanmobility,Transportation,Email Campaign,Tech Summit,88,Prospecting,45321,,34469.69,0,Lina Fernandez,OPP-00753
+Team A,Asia-Pacific,Urbanmobility,Transportation,Partnership,Agri Meet,51,Qualified,45502,,13809.2,0,Priya Singh,OPP-00754
+Team E,Latin-America,GreenSystems,Renewable Energy,Inbound,Agri Meet,82,Closed Lost,45566,45587,41960.63,0,Sara Ibrahim,OPP-00755
+Team D,Middle-East,AgriCorp,Agriculture,Event,Referral Program,68,Proposal Sent,45679,,19637.16,0,Chen Wei,OPP-00756
+Team E,North-America,SafeBank,Financial Services,Event,Green Tech Day,61,Prospecting,45698,,88672.34,0,Sara Ibrahim,OPP-00757
+Team E,Asia-Pacific,TechNova,Technology,Event,Summer Outreach,89,Closed Lost,45442,45491,69428.87,0,Rafael Souza,OPP-00758
+Team E,Asia-Pacific,MarketIQ,Market Intelligence,Event,Education Forum,54,Negotiation,45856,,125397.29,0,Sara Ibrahim,OPP-00759
+Team B,North-America,BioHealth,Biotechnology,Referral,Education Forum,83,Prospecting,45357,,17542.3,0,Meera Shah,OPP-00760
+Team C,Asia-Pacific,HealthPlus,Healthcare,Outbound,Healthcare Expo,69,Prospecting,45396,,19199.35,0,Lina Fernandez,OPP-00761
+Team E,North-America,AgriCorp,Agriculture,Webinar,Spring Launch,31,Prospecting,45646,,51874.85,0,Rafael Souza,OPP-00762
+Team A,North-America,AgriHarvest,Agriculture,Partnership,FinTech Webinar,82,Prospecting,45789,,21340.3,0,Priya Singh,OPP-00763
+Team D,Latin-America,Urbanmobility,Transportation,Social Media,HealthcareExpo,46,Proposal Sent,45752,,100707.7,0,Emma Johnson,OPP-00764
+Team A,Asia-Pacific,BioHealth,Biotechnology,Outbound,Green Tech Day,60,Proposal Sent,45451,,23133.05,0,Priya Singh,OPP-00765
+Team D,Europe,FinPeak,FinTech,Webinar,Referral Program,64,Proposal Sent,45582,,14702.71,0,Emma Johnson,OPP-00766
+Team B,North-America,MarketIQ,Market Intelligence,Webinar,Spring Launch,95,Closed Won,45378,45479,46295.75,55437.26,Rohit Menon,OPP-00767
+Team B,Asia-Pacific,MediCore,Healthcare,Outbound,healthcare expo,54,Prospecting,45392,,87966.44,0,Unknown,OPP-00768
+Team B,Asia-Pacific,FinPeak,FinTech,Inbound,Healthcare Expo,48,Prospecting,45502,,24877.3,0,Unknown,OPP-00769
+Team A,Asia-Pacific,AgriHarvest,Agriculture,Email Campaign,Referral Program,23,Proposal Sent,45626,,34881.16,0,Alex Patel,OPP-00770
+Team B,Europe,AgriCorp,Agriculture,Event,Green Tech Day,58,Closed Won,45688,45811,46306.655,0,Meera Shah,OPP-00771
+Team C,Asia-Pacific,GreenSystems,Renewable Energy,Partnership,Spring Launch,72,Qualified,45424,,16508.4,0,Samir Gupta,OPP-00772
+Team C,Asia-Pacific,GreenTech,Renewable Energy,Referral,referral program,91,Closed Lost,45638,45738,31919.12,0,Lina Fernandez,OPP-00773
+Team D,Europe,FinPeak,FinTech,Email Campaign,Referral Program,44,Prospecting,45232,,48979.16,0,Chen Wei,OPP-00774
+Team C,North-America,BioHealth,Biotechnology,Unknown,Agri Meet,39,Negotiation,45182,,76611.65,0,Samir Gupta,OPP-00775
+Team D,Middle-East,FinEdge,Financial Services,Email Campaign,Referral Program,60,Closed Lost,45575,45619,8373.37,0,Chen Wei,OPP-00776
+Team D,Latin-America,SafeBank,Financial Services,Social Media,Healthcare Expo,61,Qualified,45542,,21905.89,0,Emma Johnson,OPP-00777
+Team D,North-America,MarketIQ,Market Intelligence,Referral,Green Tech Day,38,Qualified,45448,,34873.38,0,Chen Wei,OPP-00778
+Team A,Asia-Pacific,HealthPlus,Healthcare,Social Media,Referral Program,52,Prospecting,45714,,11772.54,0,Priya Singh,OPP-00779
+Team E,Asia-Pacific,EduNext,Education,Inbound,HealthcareExpo,21,Closed Won,45845,45869,66813.71,65198.01,Rafael Souza,OPP-00780
+Team C,Asia-Pacific,HealthPlus,Healthcare,Social Media,spring launch,95,Negotiation,45259,,17550.12,0,Samir Gupta,OPP-00781
+Team E,Europe,TechNova,Technology,Event,Tech summit,87,Negotiation,45197,,73134.83,0,Sara Ibrahim,OPP-00782
+Team A,Middle-East,Urbanmobility,Transportation,Outbound,Healthcare Expo,62,Closed Lost,45531,45651,31222.41,0,Alex Patel,OPP-00783
+Team E,North-America,Urbanmobility,Transportation,Outbound,Referral Program,21,Proposal Sent,45855,,53997.41,0,Sara Ibrahim,OPP-00784
+Team D,Asia-Pacific,EduNext,Education,Outbound,Green Tech Day,92,Qualified,45740,,28457.31,0,Chen Wei,OPP-00785
+Team A,Middle-East,BioHealth,Biotechnology,Referral,summer outreach,29,Prospecting,45320,,81310.96,0,Priya Singh,OPP-00786
+Team E,Latin-America,Urbanmobility,Transportation,Referral,FinTech Webinar,75,Proposal Sent,45300,,62613.1,0,Rafael Souza,OPP-00787
+Team E,Latin-America,BioHealth,Biotechnology,Social Media,ReferralProgram,24,Proposal Sent,45868,,80930.18,0,Unknown,OPP-00788
+Team E,Europe,MediCore,Healthcare,Referral,Agri Meet,71,Prospecting,45748,,52506.63,0,Rafael Souza,OPP-00789
+Team E,North-America,HealthPlus,Healthcare,Outbound,SummerOutreach,94,Negotiation,45487,,31476.05,0,Sara Ibrahim,OPP-00790
+Team A,Middle-East,AgriCorp,Agriculture,Social Media,FinTech Webinar,36,Prospecting,45630,,74185.71,0,Priya Singh,OPP-00791
+Team D,Latin-America,BioHealth,Biotechnology,Referral,Referral Program,90,Closed Lost,45304,45411,22373.29,0,Emma Johnson,OPP-00792
+Team B,North-America,GreenTech,Renewable Energy,Social Media,Agri Meet,61,Qualified,45364,,128762.63,0,Rohit Menon,OPP-00793
+Team C,Latin-America,BioHealth,Biotechnology,Social Media,Summer Outreach,81,Closed Won,45282,45300,124919.92,108047.97,Samir Gupta,OPP-00794
+Team E,Latin-America,HealthPlus,Healthcare,Partnership,Healthcare Expo,34,Closed Won,45269,45390,38674.68,35784.19,Sara Ibrahim,OPP-00795
+Team E,North-America,SafeBank,Financial Services,Partnership,education forum,95,Negotiation,45435,,156661.11,0,Rafael Souza,OPP-00796
+Team C,Asia-Pacific,AgriCorp,Agriculture,Outbound,Green tech day,44,Negotiation,45617,,144973.76,0,Samir Gupta,OPP-00797
+Team E,Asia-Pacific,MarketIQ,Market Intelligence,Outbound,Spring Launch,46,Closed Lost,45337,45442,21809.51,0,Sara Ibrahim,OPP-00798
+Team E,Europe,MarketIQ,Market Intelligence,Event,Referral Program,61,Prospecting,45521,,16525.38,0,Sara Ibrahim,OPP-00799
+Team D,Middle-East,BioHealth,Biotechnology,Referral,Referral Program,58,Closed Lost,45356,45494,32110.18,0,Emma Johnson,OPP-00800
+Team C,Europe,GreenTech,Renewable Energy,Outbound,FinTech Webinar,35,Prospecting,45658,,157644.89,0,Lina Fernandez,OPP-00801
+Team E,Asia-Pacific,GreenSystems,Renewable Energy,Webinar,GreenTechDay,64,Negotiation,45470,,42513.51,0,Sara Ibrahim,OPP-00802
+Team D,Middle-East,Urbanmobility,Transportation,Referral,FinTechWebinar,47,Qualified,45175,,23606.83,0,Emma Johnson,OPP-00803
+Team D,Asia-Pacific,MediCore,Healthcare,Event,Green Tech Day,45,Prospecting,45830,,46306.655,0,Unknown,OPP-00804
+Team D,Europe,AgriHarvest,Agriculture,Partnership,Tech Summit,22,Qualified,45557,,84376.22,0,Chen Wei,OPP-00805
+Team A,Middle-East,MediCore,Healthcare,Social Media,FinTech Webinar,71,Negotiation,45561,,66598.69,0,Alex Patel,OPP-00806
+Team D,Middle-East,SafeBank,Financial Services,Referral,FinTech Webinar,45,Qualified,45202,,37590.61,0,Chen Wei,OPP-00807
+Team C,Asia-Pacific,AgriCorp,Agriculture,Outbound,Healthcare Expo,28,Closed Won,45678,45689,26073.46,27834.81,Lina Fernandez,OPP-00808
+Team E,Asia-Pacific,EduNext,Education,Event,Spring Launch,29,Closed Lost,45294,45459,12720.44,0,Rafael Souza,OPP-00809
+Team A,Middle-East,EduNext,Education,Email Campaign,Spring launch,57,Prospecting,45321,,118975.93,0,Priya Singh,OPP-00810
+Team E,North-America,GreenSystems,Renewable Energy,Inbound,Green Tech Day,45,Proposal Sent,45855,,24696.18,0,Sara Ibrahim,OPP-00811
+Team E,Latin-America,AgriCorp,Agriculture,Referral,Tech Summit,60,Proposal Sent,45823,,89858.75,0,Sara Ibrahim,OPP-00812
+Team A,Asia-Pacific,GreenTech,Renewable Energy,Social Media,Referral Program,40,Qualified,45371,,64082.23,0,Alex Patel,OPP-00813
+Team A,Asia-Pacific,SafeBank,Financial Services,Webinar,Green Tech Day,40,Negotiation,45738,,76080.97,0,Alex Patel,OPP-00814
+Team C,Asia-Pacific,FinEdge,Financial Services,Email Campaign,Spring Launch,62,Prospecting,45741,,69027.51,0,Samir Gupta,OPP-00815
+Team A,Europe,FinEdge,Financial Services,Social Media,Referral Program,26,Closed Lost,45748,45802,32464.97,0,Alex Patel,OPP-00816
+Team D,Middle-East,CloudWorks,Cloud Computing,Unknown,spring launch,59,Qualified,45390,,54567.65,0,Chen Wei,OPP-00817
+Team B,Europe,AgriHarvest,Agriculture,Referral,Tech Summit,94,Closed Won,45557,45724,27250.24,24585.63,Rohit Menon,OPP-00818
+Team B,Middle-East,AgriCorp,Agriculture,Outbound,FinTech Webinar,49,Negotiation,45724,,60171.24,0,Rohit Menon,OPP-00819
+Team B,Middle-East,AgriHarvest,Agriculture,Inbound,Education Forum,88,Negotiation,45612,,25425.95,0,Rohit Menon,OPP-00820
+Team C,Latin-America,Urbanmobility,Transportation,Partnership,Green Tech Day,78,Negotiation,45711,,43307.33,0,Lina Fernandez,OPP-00821
+Team D,North-America,MarketIQ,Market Intelligence,Referral,Tech Summit,21,Prospecting,45575,,32353.42,0,Chen Wei,OPP-00822
+Team A,Middle-East,AgriHarvest,Agriculture,Social Media,healthcare expo,48,Prospecting,45609,,33534.44,0,Alex Patel,OPP-00823
+Team D,Middle-East,GreenTech,Renewable Energy,Referral,Healthcare Expo,52,Qualified,45745,,213454.72,0,Emma Johnson,OPP-00824
+Team C,Middle-East,AgriCorp,Agriculture,Partnership,FinTech Webinar,53,Negotiation,45704,,28400.34,0,Lina Fernandez,OPP-00825
+Team C,Latin-America,AgriHarvest,Agriculture,Referral,Education Forum,92,Qualified,45714,,132834.76,0,Samir Gupta,OPP-00826
+Team D,North-America,FinEdge,Financial Services,Referral,Green Tech Day,89,Prospecting,45209,,158064.03,0,Emma Johnson,OPP-00827
+Team B,Latin-America,BioHealth,Biotechnology,Inbound,tech summit,90,Closed Won,45416,45587,41186.54,36439.07,Meera Shah,OPP-00828
+Team D,Middle-East,SafeBank,Financial Services,Social Media,FinTechWebinar,89,Closed Won,45763,45814,60640.94,56326.02,Chen Wei,OPP-00829
+Team D,Europe,CloudWorks,Cloud Computing,Referral,spring launch,61,Negotiation,45647,,37633.76,0,Chen Wei,OPP-00830
+Team C,Middle-East,AgriCorp,Agriculture,Referral,Spring Launch,69,Closed Won,45194,45296,96341.19,95823.66,Samir Gupta,OPP-00831
+Team B,Latin-America,AgriCorp,Agriculture,Referral,green tech day,95,Prospecting,45500,,92380.79,0,Rohit Menon,OPP-00832
+Team E,Asia-Pacific,CloudWorks,Cloud Computing,Event,Green Tech Day,46,Qualified,45769,,34939.75,0,Rafael Souza,OPP-00833
+Team A,Middle-East,AgriCorp,Agriculture,Inbound,Referral Program,96,Prospecting,45277,,18477.33,0,Priya Singh,OPP-00834
+Team E,North-America,GreenTech,Renewable Energy,Referral,Spring Launch,76,Qualified,45522,,121817.34,0,Sara Ibrahim,OPP-00835
+Team B,Latin-America,AgriCorp,Agriculture,Referral,Green Tech Day,94,Closed Lost,45474,45514,29911.16,0,Meera Shah,OPP-00836
+Team B,Middle-East,CloudWorks,Cloud Computing,Email Campaign,Green Tech Day,85,Qualified,45647,,38506.78,0,Rohit Menon,OPP-00837
+Team C,Latin-America,AgriCorp,Agriculture,Webinar,Agri Meet,56,Proposal Sent,45292,,48333.24,0,Lina Fernandez,OPP-00838
+Team E,Europe,MarketIQ,Market Intelligence,Inbound,Green Tech Day,65,Qualified,45387,,80237.71,0,Rafael Souza,OPP-00839
+Team C,Latin-America,MediCore,Healthcare,Email Campaign,Healthcare Expo,57,Prospecting,45809,,64096.67,0,Lina Fernandez,OPP-00840
+Team D,North-America,AgriHarvest,Agriculture,Webinar,FinTech Webinar,86,Qualified,45626,,69221.25,0,Chen Wei,OPP-00841
+Team B,Middle-East,HealthPlus,Healthcare,Webinar,Healthcare Expo,54,Proposal Sent,45483,,18175.07,0,Rohit Menon,OPP-00842
+Team A,Asia-Pacific,TechNova,Technology,Partnership,Referral Program,43,Qualified,45242,,30467.02,0,Alex Patel,OPP-00843
+Team C,Latin-America,HealthPlus,Healthcare,Event,tech summit,61,Qualified,45793,,44856.61,0,Samir Gupta,OPP-00844
+Team C,Middle-East,CloudWorks,Cloud Computing,Outbound,Summer Outreach,98,Negotiation,45315,,10410.07,0,Samir Gupta,OPP-00845
+Team D,Asia-Pacific,MediCore,Healthcare,Partnership,EducationForum,37,Proposal Sent,45324,,58829.73,0,Chen Wei,OPP-00846
+Team C,Middle-East,CloudWorks,Cloud Computing,Referral,Green tech day,36,Proposal Sent,45583,,36854.45,0,Samir Gupta,OPP-00847
+Team B,North-America,Urbanmobility,Transportation,Unknown,AgriMeet,92,Proposal Sent,45636,,30007.54,0,Rohit Menon,OPP-00848
+Team C,Middle-East,MediCore,Healthcare,Outbound,Summer Outreach,61,Prospecting,45203,,163014.97,0,Lina Fernandez,OPP-00849
+Team B,North-America,TechNova,Technology,Event,Referral Program,56,Prospecting,45294,,20532.17,0,Meera Shah,OPP-00850
+Team A,Latin-America,GreenSystems,Renewable Energy,Referral,green tech day,77,Prospecting,45419,,38380.3,0,Alex Patel,OPP-00851
+Team E,North-America,Urbanmobility,Transportation,Event,Agri Meet,90,Proposal Sent,45680,,33887.54,0,Sara Ibrahim,OPP-00852
+Team D,Latin-America,TechNova,Technology,Webinar,Healthcare Expo,78,Proposal Sent,45320,,87925.81,0,Emma Johnson,OPP-00853
+Team C,Europe,BioHealth,Biotechnology,Referral,FinTech Webinar,54,Prospecting,45270,,23817.76,0,Samir Gupta,OPP-00854
+Team E,North-America,SafeBank,Financial Services,Email Campaign,Spring Launch,35,Proposal Sent,45638,,20658.8,0,Rafael Souza,OPP-00855
+Team E,Latin-America,MarketIQ,Market Intelligence,Webinar,Education Forum,89,Prospecting,45578,,37157.88,0,Sara Ibrahim,OPP-00856
+Team E,Latin-America,SafeBank,Financial Services,Outbound,Healthcare expo,28,Proposal Sent,45201,,71188.47,0,Rafael Souza,OPP-00857
+Team E,North-America,GreenTech,Renewable Energy,Outbound,Agri Meet,31,Prospecting,45728,,148175.79,0,Sara Ibrahim,OPP-00858
+Team B,Asia-Pacific,HealthPlus,Healthcare,Email Campaign,Healthcare Expo,54,Negotiation,45525,,36524.61,0,Rohit Menon,OPP-00859
+Team A,North-America,TechNova,Technology,Referral,Spring Launch,61,Proposal Sent,45756,,30019.4,0,Alex Patel,OPP-00860
+Team B,Europe,FinEdge,Financial Services,Social Media,Summer Outreach,33,Qualified,45236,,63916.09,0,Rohit Menon,OPP-00861
+Team A,North-America,TechNova,Technology,Webinar,Agri Meet,95,Proposal Sent,45329,,39816.24,0,Priya Singh,OPP-00862
+Team A,Latin-America,FinPeak,FinTech,Event,Agri Meet,42,Qualified,45556,,40045,0,Unknown,OPP-00863
+Team A,Latin-America,FinPeak,FinTech,Outbound,Spring Launch,21,Negotiation,45726,,14027.83,0,Priya Singh,OPP-00864
+Team D,Europe,FinPeak,FinTech,Outbound,Education forum,63,Qualified,45363,,30298.98,0,Chen Wei,OPP-00865
+Team A,North-America,SafeBank,Financial Services,Social Media,Education Forum,33,Proposal Sent,45617,,97939.37,0,Priya Singh,OPP-00866
+Team E,North-America,FinEdge,Financial Services,Event,Summer Outreach,98,Closed Lost,45380,45502,24118.91,0,Rafael Souza,OPP-00867
+Team B,Middle-East,AgriCorp,Agriculture,Social Media,FinTech Webinar,64,Negotiation,45501,,157585.55,0,Rohit Menon,OPP-00868
+Team B,Europe,SafeBank,Financial Services,Social Media,Education Forum,73,Prospecting,45828,,94812.39,0,Rohit Menon,OPP-00869
+Team C,Middle-East,HealthPlus,Healthcare,Email Campaign,FinTech Webinar,61,Closed Lost,45262,45299,31819.97,0,Samir Gupta,OPP-00870
+Team A,Europe,BioHealth,Biotechnology,Partnership,Education Forum,55,Qualified,45539,,62441.58,0,Priya Singh,OPP-00871
+Team B,Europe,CloudWorks,Cloud Computing,Referral,Healthcare expo,90,Prospecting,45471,,28091.8,0,Meera Shah,OPP-00872
+Team C,Latin-America,GreenSystems,Renewable Energy,Event,Agri Meet,21,Proposal Sent,45550,,32453.2,0,Samir Gupta,OPP-00873
+Team C,North-America,GreenSystems,Renewable Energy,Webinar,Summer Outreach,73,Qualified,45829,,137779.88,0,Lina Fernandez,OPP-00874
+Team E,Europe,AgriHarvest,Agriculture,Outbound,Agri Meet,67,Negotiation,45263,,53688.21,0,Rafael Souza,OPP-00875
+Team C,Asia-Pacific,MarketIQ,Market Intelligence,Inbound,Healthcare Expo,70,Closed Lost,45218,45260,82269.35,0,Samir Gupta,OPP-00876
+Team E,Europe,MarketIQ,Market Intelligence,Webinar,Healthcare expo,28,Closed Won,45503,45623,94750.56,105931.7,Sara Ibrahim,OPP-00877
+Team A,Europe,FinPeak,FinTech,Partnership,Green Tech Day,65,Proposal Sent,45736,,66241.53,0,Priya Singh,OPP-00878
+Team D,Asia-Pacific,EduNext,Education,Partnership,Education forum,80,Prospecting,45276,,80767.1,0,Chen Wei,OPP-00879
+Team A,Europe,TechNova,Technology,Inbound,Summer Outreach,91,Proposal Sent,45651,,111302.5,0,Priya Singh,OPP-00880
+Team E,North-America,SafeBank,Financial Services,Outbound,Tech Summit,36,Prospecting,45303,,33686.38,0,Sara Ibrahim,OPP-00881
+Team B,Latin-America,SafeBank,Financial Services,Partnership,agri meet,95,Qualified,45257,,76248.85,0,Rohit Menon,OPP-00882
+Team E,Asia-Pacific,FinEdge,Financial Services,Outbound,summer outreach,61,Prospecting,45185,,48238.8,0,Sara Ibrahim,OPP-00883
+Team A,North-America,AgriCorp,Agriculture,Email Campaign,education forum,99,Qualified,45413,,13011.61,0,Priya Singh,OPP-00884
+Team A,Latin-America,GreenTech,Renewable Energy,Inbound,Tech Summit,86,Closed Won,45507,45523,37436.74,31104.07,Priya Singh,OPP-00885
+Team D,Asia-Pacific,GreenTech,Renewable Energy,Partnership,Summer Outreach,74,Closed Lost,45519,45587,110835.05,0,Chen Wei,OPP-00886
+Team C,Latin-America,FinEdge,Financial Services,Outbound,Tech Summit,76,Qualified,45456,,45838.04,0,Samir Gupta,OPP-00887
+Team B,Asia-Pacific,EduNext,Education,Outbound,Spring Launch,45,Closed Won,45572,45750,17247.95,18588.15,Meera Shah,OPP-00888
+Team C,Latin-America,CloudWorks,Cloud Computing,Partnership,Tech Summit,37,Qualified,45549,,35097.22,0,Unknown,OPP-00889
+Team B,Middle-East,TechNova,Technology,Outbound,Spring Launch,95,Prospecting,45731,,28085.17,0,Meera Shah,OPP-00890
+Team E,Latin-America,SafeBank,Financial Services,Partnership,Agri Meet,83,Closed Won,45658,45666,43717.53,35160.67,Rafael Souza,OPP-00891
+Team B,Europe,CloudWorks,Cloud Computing,Outbound,Summer Outreach,92,Negotiation,45356,,56085.13,0,Rohit Menon,OPP-00892
+Team B,North-America,AgriCorp,Agriculture,Inbound,education forum,78,Qualified,45239,,45225.34,0,Rohit Menon,OPP-00893
+Team D,North-America,GreenTech,Renewable Energy,Referral,Green Tech Day,61,Prospecting,45476,,70083.39,0,Chen Wei,OPP-00894
+Team E,Latin-America,TechNova,Technology,Webinar,Tech Summit,97,Closed Won,45262,45357,19828.18,20756.35,Sara Ibrahim,OPP-00895
+Team D,Asia-Pacific,SafeBank,Financial Services,Social Media,healthcare expo,69,Negotiation,45314,,61270.16,0,Chen Wei,OPP-00896
+Team C,Latin-America,AgriHarvest,Agriculture,Referral,Education Forum,28,Prospecting,45449,,60043.42,0,Lina Fernandez,OPP-00897
+Team D,North-America,GreenSystems,Renewable Energy,Inbound,Healthcare Expo,22,Closed Lost,45560,45595,108018.77,0,Chen Wei,OPP-00898
+Team D,Europe,GreenSystems,Renewable Energy,Outbound,Unknown,97,Qualified,45861,,81960.15,0,Chen Wei,OPP-00899
+Team B,Latin-America,FinEdge,Financial Services,Event,TechSummit,80,Prospecting,45752,,26857.82,0,Rohit Menon,OPP-00900
